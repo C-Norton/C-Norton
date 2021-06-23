@@ -206,16 +206,34 @@ Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
 
+<details><summary>Business Software</summary>
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
+<details><summary>Other Software</summary>
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
 # Skills I am looking to learn
 I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
 
-Erlang
-Perl
-Lisp
-Typescript
-Haskell
+
 
 #### Languages
+
+[ ] Erlang
+
+[ ] Haskell
+
+[ ] Lisp
+
+[ ] Perl
+
+[ ] Typescript
+
+
 #### Frameworks and Libraries
 #### Platforms
 
