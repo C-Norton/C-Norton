@@ -32,17 +32,19 @@ Proficient skills are those I've worked with heavily. For most skills, this is a
 #### Highly Proficient
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Highly proficient skills are those which I have worked in extensively. There is not a single skill that I put this badge on that I have not worked in for at least 200 hours in one form or another. I've worked with this skill in multiple projects, and it is typically going to be a weapon of choice for me for the problems it is good at solving. I know how to use it, I know when to use it, and I know when NOT to use it in favor of the alternatives. I could likely write a rant or three on the flaws present in this technology. I've not used every corner of it extensively, but I know where they all are. If given a problem that this technology can solve, I will know what tools it provides for solving said problem without having to research, but I might need to scan some documentation in order to figure out how to best utilize some of them. The core tools within the technology I've made use of the most I know like the back of my hand. I likely have a version that I'm more familiar with
+Highly proficient skills are those which I have worked in extensively. There is not a single skill that I put this badge on that I have not worked in for at least 200 hours in one form or another. I've worked with this skill in multiple projects, and it is typically going to be a weapon of choice for me for the problems it is good at solving. I know how to use it, I know when to use it, and I know when NOT to use it in favor of the alternatives. I could likely write a rant or three on the flaws present in this technology. I've not used every corner of it extensively, but I know where they all are. If given a problem that this technology can solve, I will know what tools it provides for solving said problem without having to research, but I might need to scan some documentation in order to figure out how to best utilize some of them. The core tools within the technology I've made use of the most I know like the back of my hand. I likely have a version that I'm more familiar with, and my familiarity is suficient that that actualy matters.
 
 #### Mastered 
 
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
 
-Mastered skills are those I consider myself
+Mastered skills are those I consider myself truely complete in. There's always more learning to be done, of course, but either the technology in question is small enough that its possible to truly understand every single feature, configuration, and syntax quirk, or, for larger technologies, this usually implies hundreds and hundreds of hours of work in it, at least, to the point where if there's a type of problem the tool can be used for, I've likely used it that way, and misused it in several others. This is likely a go to tool of some kind for me. I usually keep up to date with the updates to the tool to maintain this level of skill, or list a specific version that I am up to date on. ~~I also consider a tool mastered if my wife reports me talking in my sleep about it on more than one occasion~~
 
 
 # Programming languages
-# Frameworks and Libraries
+# Shells, Scripting languages, and automation systems
+# Low code / IPAAS / no code platforms
+# Frameworks, APIs and Libraries
 # Platforms
 
 # Skills I am looking to learn
