@@ -86,7 +86,7 @@ PowerPC ISA 1.10
 :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-# Hardware Description Language
+# Hardware Description Languages
 
 VHDL
 
