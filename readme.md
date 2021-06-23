@@ -57,48 +57,42 @@ Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_b
 </details>
 <details><summary>Markup, Notation, and Text Processing Languages</summary>
 
-Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. 
+Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. There's a lot more to RegEx than YAML, for instance, so more work for RegEx to reach a similar level of comprehension.
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-HTML5 |  | 
 CSS |  | 
-Markdown |  | 
-YAML |  | 
+HTML5 |  | 
 JSON |  | 
-XML |  | 
+Markdown |  | 
 Regular Expressions |  | 
+XML |  | 
+YAML |  | 
 
 </details>
 
-<details><summary>Assembly Languages</summary>
+<details><summary>Assembly Languages and ISAs</summary>
 
-MIPS
-
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-Arm Cortex M0+
-
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-PowerPC ISA 1.10
-
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Technology | Proficiency | Notes
+----- | ----- | ------
+MIPS | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+Arm Cortex M0+ | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+PowerPC 1.10 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 </details>
 
 <details><summary>Hardware Description Languages</summary>
 
-VHDL
-
-:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Technology | Proficiency | Notes
+----- | ----- | ------
+VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 </details>
 </ul>
+</details>
 
-# Operating Systems and Hypervisors
-<details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for Windows as an administrator</summary>
+<details><summary>Operating Systems and Hypervisors</summary>
 
+###### As a whole, for the desktop, I typically prefer Windows for most purposes, but for software development, I typically prefer Linux OSes for the flexibility of other window managers and customization options. For server uses, I opt for the correct tool for the job. For small and medium businesses, that is usually windows, but for anything performance intensive, or for larger networks, Linux servers are the way to go.
 <ul>
-  
 
 <details><summary>Desktop Operating Systems by Vendor and Version</summary>  
 
@@ -120,10 +114,6 @@ MacOS (Versions < 10.7) | |
 MacOS (Versions 10.7 - 10.13) | | 
 MacOS (Versions > 10.13) | | 
 </details>
-  
-
-</details>
-
   
 
 <details><summary>Server Operating Systems by Vendor and Version</summary>  
@@ -167,16 +157,53 @@ ChromeOS | |
 
 </details>
  
-
+</details>
+</ul>
 </details>
   
+<details><summary>Low code / IPAAS / no code platforms</summary>
 
+Platform | Proficiency | Notes
+------ | ----- | ------
 
-# Low code / IPAAS / no code platforms
-# Frameworks, APIs and Libraries
-# Version Control
-# Service Delivery Software
-# IT Platforms
+</Details>
+<details><summary>Frameworks, APIs and Libraries</summary>
+
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+<details><summary>Development Tools and Version Control</summary>
+
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
+<details><summary>Development techniques and methodologies</summary>
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
+<details><summary>Development "Soft Skills"</summary>
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+<details><summary>Service Delivery Software</summary>
+ 
+Platform | Proficiency | Notes
+------ | ----- | ------
+
+</details>
+<details><summary>IT Platforms</summary>
+
+Platform | Proficiency | Notes
+------ | ----- | ------
+
+</details>
+<details><summary>Enterprise Networking Ecosystems</summary>
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
 # Skills I am looking to learn
 I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
 
