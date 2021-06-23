@@ -4,7 +4,7 @@ This GitHub serves as my portfolio as a software developer. It was last updated 
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
-This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free.
+This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, any work for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 I've broken these technologies up by category. Programming languages at the top, IT platforms and skills at the bottom
 
@@ -41,56 +41,54 @@ Highly proficient skills are those which I have worked in extensively. There is 
 Mastered skills are those I consider myself truely complete in. There's always more learning to be done, of course, but either the technology in question is small enough that its possible to truly understand every single feature, configuration, and syntax quirk, or, for larger technologies, this usually implies hundreds and hundreds of hours of work in it, at least, to the point where if there's a type of problem the tool can be used for, I've likely used it that way, and misused it in several others. This is likely a go to tool of some kind for me. I usually keep up to date with the updates to the tool to maintain this level of skill, or list a specific version that I am up to date on. ~~I also consider a tool mastered if my wife reports me talking in my sleep about it on more than one occasion.~~
 
 
-# Higher Level Programming languages
+# Higher Level Languages
+###### Note that I've divided languages into categories by their use. I suggest CTRL-F if you are looking for a skill or language in particular, or at least perusing the lower categories as well. I've tried to sort categories by the order of relevance to most employers looking to hire a programmer or devops engineer.
 
 C
-
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
 
-C#
+C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
 
+C#
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 C++
-
 :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Java
-
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
 
 JavaScript
-
 :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Python
-
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Ruby
-
 :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Rust
-
 :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Scala
-
 :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Smalltalk
-
 :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 SQL
-
 :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-VBA
+H2 dialect, but it's SQL, to say its easy to switch between is an understatement.
 
+VBA
 :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+# Shells, Scripting languages, and automation systems
+Bash
+Powershell
+
+# Markup Languages
 
 # Assembly Languages
 
@@ -114,12 +112,11 @@ VHDL
 :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-# Shells, Scripting languages, and automation systems
-Bash
-Powershell
 
 # Low code / IPAAS / no code platforms
 # Frameworks, APIs and Libraries
+# Version Control
+
 # Platforms
 
 # Skills I am looking to learn
