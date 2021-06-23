@@ -181,11 +181,13 @@ Platform | Proficiency | Notes
 </details>
 
 <details><summary>Development techniques and methodologies</summary>
+  
 Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
 
 <details><summary>Development "Soft Skills"</summary>
+  
 Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
@@ -202,16 +204,19 @@ Platform | Proficiency | Notes
 
 </details>
 <details><summary>Enterprise Networking Ecosystems</summary>
+  
 Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
 
 <details><summary>Business Software</summary>
+  
 Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
 
 <details><summary>Other Software</summary>
+  
 Platform | Proficiency | Notes
 ------ | ----- | ------
 </details>
