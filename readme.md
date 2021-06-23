@@ -44,7 +44,12 @@ VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 </details>
   
 # Operating Systems
+<details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for windows as an administrator</summary>
+OS | Proficiency | Notes
+------ | ------- | -------
+Windows Server 2016
 
+</details>
 # Shells, Scripting languages, and OS automation systems
 <details><Summary>While I don't have shell documentation memorized, and usually need documentation to hand for the core busybox applications and their equivalents in other OSes, I am generally very comfortable in any kind of shell, and can happily script tasks in them. Shells for networking hardware operating systems covered elsewhere in this document</summary>
 
