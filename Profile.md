@@ -41,14 +41,97 @@ Highly proficient skills are those which I have worked in extensively. There is 
 Mastered skills are those I consider myself truely complete in. There's always more learning to be done, of course, but either the technology in question is small enough that its possible to truly understand every single feature, configuration, and syntax quirk, or, for larger technologies, this usually implies hundreds and hundreds of hours of work in it, at least, to the point where if there's a type of problem the tool can be used for, I've likely used it that way, and misused it in several others. This is likely a go to tool of some kind for me. I usually keep up to date with the updates to the tool to maintain this level of skill, or list a specific version that I am up to date on. ~~I also consider a tool mastered if my wife reports me talking in my sleep about it on more than one occasion.~~
 
 
-# Programming languages
+# Higher Level Programming languages
+
+C
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
+
+C#
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+C++
+
+:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Java
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
+
+JavaScript
+
+:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Python
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Ruby
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Rust
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Scala
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Smalltalk
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+SQL
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+VBA
+
+:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+# Assembly Languages
+
+MIPS
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+Arm Cortex M0+
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+PowerPC ISA 1.10
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+# Hardware Description Language
+
+VHDL
+
+:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
 # Shells, Scripting languages, and automation systems
+Bash
+Powershell
+
 # Low code / IPAAS / no code platforms
 # Frameworks, APIs and Libraries
 # Platforms
 
 # Skills I am looking to learn
 I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
+
+Erlang
+Perl
+Prolog
+Lisp
+Typescript
+Haskell
+
 #### Languages
 #### Frameworks and Libraries
 #### Platforms
