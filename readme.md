@@ -8,7 +8,7 @@ I pride myself on being a technology generalist that can learn how to produce qu
 This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, any work for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 I've broken these technologies up by category. Programming languages at the top, IT platforms and skills at the bottom
-## Skill levels
+# Skill levels
 <details><Summary>Rating Criteria</summary>
 
 Level | Symbol | Description and Criteria
@@ -21,11 +21,12 @@ Mastered | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large
 
 </details>
   
-# Higher Level Languages
-<details><summary>Most proficient in C, C#, and Java. While I'm more experienced and knowledgeable as a Java developer, I prefer C#.</summary>
+<details><summary>Computer Languages and Shells</summary>
   
 ###### Note that I've divided languages into categories by their use. You may find languages that are not exclusively or primarily used for the development of desktop applications in other sections below.
-  
+<ul>
+<details><summary>Higher level programming languages</summary>
+
 Language | Proficiency | Notes 
 ------ | -------------- | ----------------
 C | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
@@ -40,15 +41,70 @@ Rust | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blu
 Scala | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Smalltalk | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 SQL | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | H2 dialect, but it's SQL, to say its easy to switch between is an understatement.
-VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 </details>
   
+<details><Summary>Shells, Scripting languages, and OS automation systems</summary>
+
+Technology | Proficiency | Notes
+----- | ----- | ------
+AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  
+Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and to a lesser extent Ubuntu. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
+CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste
+Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
+WMIC | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  | I've explored WMIC/WMI briefly as a solution to the specific technical problem of uninstalling certain programs via Connectwise Control's "Backstage" environment to perform these operations without end user interruption when scripting out an install was not possible due to limitations by the installer package. While I know it's primarily used as a Powershell utility, I actually have primarily interacted with WMIC via CMD. I recognize that there's a LOT more the tool can do than forcing program installations, I've just not run into cases where I've needed it.
+Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | I'm capable in zsh, and, if it were sufficiently popular as an embedded alternative to bash, I could see myself loving it more. As is, it's niche, but nice, I guess. I wouldn't say that, beyond the customization and color features that I've explored much of the areas it has a leg up on bash all that much. From what I've seen, it looks nice
+</details>
+<details><summary>Markup, Notation, and Text Processing Languages</summary>
+
+Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. 
+
+Technology | Proficiency | Notes
+----- | ----- | ------
+HTML5 |  | 
+CSS |  | 
+Markdown |  | 
+YAML |  | 
+JSON |  | 
+XML |  | 
+Regular Expressions |  | 
+
+</details>
+
+<details><summary>Assembly Languages</summary>
+
+MIPS
+
+:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+Arm Cortex M0+
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+PowerPC ISA 1.10
+
+:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+</details>
+
+<details><summary>Hardware Description Languages</summary>
+
+VHDL
+
+:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+</details>
+</ul>
+
 # Operating Systems and Hypervisors
 <details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for Windows as an administrator</summary>
 
+<ul>
+  
+
 <details><summary>Desktop Operating Systems by Vendor and Version</summary>  
+
 Refers to proficiency BOTH with using the OSes personally, and supporting users using the OS in small to medium business settings (defined here as having a fileserver, directory server, cloud or onprem email, DNS and print server may or may not be present, with fairly homogenous enviornments of OSes, save Mac, for which I assume windows servers.)
-  OS | Proficiency | Notes
+
+OS | Proficiency | Notes
 ------ | ------- | -------
 Windows XP | | 
 Windows Vista | | Okay, but does this actually MATTER to anyone
@@ -66,7 +122,12 @@ MacOS (Versions > 10.13) | |
 </details>
   
 
+</details>
+
+  
+
 <details><summary>Server Operating Systems by Vendor and Version</summary>  
+
 OS | Proficiency | Notes
 ------ | ------- | -------
 Windows Server 2008 and before | | 
@@ -77,10 +138,13 @@ Linux (RHEL/CentOS/Rocky) | |
 Linux (Ubuntu) | | 
 Linux (Debian) | | 
 Linux (OpenSuse) | | 
+
 </details>
-  
-#### Hypervisors 
-  
+
+
+
+<details><summary>Hypervisors</summary>
+
 Hypervisor | Proficiency | Notes
 ------ | ----- | ------
 Hyper-V | | 
@@ -88,54 +152,24 @@ VirtualBox | |
 VMWare VSphere/ESXI | | 
 VMWare Workstation | | 
 
-#### Niche/Other
+</details>
+
+
+
+<details><Summary>Niche/Other</summary>
+
 OS | Proficiency | Notes
 ------ | ----- | ------
 FreeBSD | | 
 OpenBSD | | 
 PFSense | | 
 ChromeOS | |
+
+</details>
+ 
+
 </details>
   
-# Shells, Scripting languages, and OS automation systems
-<details><Summary>While I don't have shell documentation memorized, and usually need documentation to hand for the core busybox applications and their equivalents in other OSes, I am generally very comfortable in any kind of shell, and can happily script tasks in them. Shells for networking hardware operating systems covered elsewhere in this document</summary>
-
-Technology | Proficiency | Notes
------ | ----- | ------
-AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  
-Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and to a lesser extent Ubuntu. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
-CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste
-Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
-WMIC | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  | I've explored WMIC/WMI briefly as a solution to the specific technical problem of uninstalling certain programs via Connectwise Control's "Backstage" environment to perform these operations without end user interruption when scripting out an install was not possible due to limitations by the installer package. While I know it's primarily used as a Powershell utility, I actually have primarily interacted with WMIC via CMD. I recognize that there's a LOT more the tool can do than forcing program installations, I've just not run into cases where I've needed it.
-Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | I'm capable in zsh, and, if it were sufficiently popular as an embedded alternative to bash, I could see myself loving it more. As is, it's niche, but nice, I guess. I wouldn't say that, beyond the customization and color features that I've explored much of the areas it has a leg up on bash all that much. From what I've seen, it looks nice
-
-
-
-
-
-# Markup Languages
-
-# Assembly Languages
-
-MIPS
-
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-Arm Cortex M0+
-
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-PowerPC ISA 1.10
-
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-
-# Hardware Description Languages
-
-VHDL
-
-:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 
 
 # Low code / IPAAS / no code platforms
