@@ -43,13 +43,34 @@ SQL | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue
 VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 </details>
   
-# Operating Systems
-<details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for windows as an administrator</summary>
+# Operating Systems and Hypervisors
+<details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for Windows as an administrator</summary>
+
+<details><summary>Desktop Operating Systems by Vendor and Version</summary>  
 OS | Proficiency | Notes
 ------ | ------- | -------
-Windows Server 2016
+Windows XP | | 
+Windows Vista | | Okay, but does this actually MATTER to anyone
+Windows 7 | | 
+Windows 8 | | See notes for vista
+Windows 10 | | 
+Linux (Ubuntu) | | 
+Linux (Arch) | | 
+Linux (Fedora) | |
+Linux (OpenSuse) | | 
+MacOS (Versions < 10.7) | | 
+MacOS (Versions 10.7 - 10.13) | |
+MacOS (Versions > 10.13) | | 
+</details>
+  
+#### Server Operating Systems
+
+#### Hypervisors 
+
+#### Niche/Other
 
 </details>
+  
 # Shells, Scripting languages, and OS automation systems
 <details><Summary>While I don't have shell documentation memorized, and usually need documentation to hand for the core busybox applications and their equivalents in other OSes, I am generally very comfortable in any kind of shell, and can happily script tasks in them. Shells for networking hardware operating systems covered elsewhere in this document</summary>
 
