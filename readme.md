@@ -47,7 +47,8 @@ VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 <details><summary>Equally Comfortable on Windows and Linux for desktop. Slight preference for Windows as an administrator</summary>
 
 <details><summary>Desktop Operating Systems by Vendor and Version</summary>  
-OS | Proficiency | Notes
+Refers to proficiency BOTH with using the OSes personally, and supporting users using the OS in small to medium business settings (defined here as having a fileserver, directory server, cloud or onprem email, DNS and print server may or may not be present, with fairly homogenous enviornments of OSes, save Mac, for which I assume windows servers.)
+  OS | Proficiency | Notes
 ------ | ------- | -------
 Windows XP | | 
 Windows Vista | | Okay, but does this actually MATTER to anyone
@@ -57,18 +58,43 @@ Windows 10 | |
 Linux (Ubuntu) | | 
 Linux (Arch) | | 
 Linux (Fedora) | |
+Linux (Debian) | | 
 Linux (OpenSuse) | | 
 MacOS (Versions < 10.7) | | 
-MacOS (Versions 10.7 - 10.13) | |
+MacOS (Versions 10.7 - 10.13) | | 
 MacOS (Versions > 10.13) | | 
 </details>
   
-#### Server Operating Systems
 
+<details><summary>Server Operating Systems by Vendor and Version</summary>  
+OS | Proficiency | Notes
+------ | ------- | -------
+Windows Server 2008 and before | | 
+Windows Server 2012 | | Okay, but does this actually MATTER to anyone
+Windows Server 2016 | | 
+Windows Server 2019 | | See notes for vista
+Linux (RHEL/CentOS/Rocky) | | 
+Linux (Ubuntu) | | 
+Linux (Debian) | | 
+Linux (OpenSuse) | | 
+</details>
+  
 #### Hypervisors 
+  
+Hypervisor | Proficiency | Notes
+------ | ----- | ------
+Hyper-V | | 
+VirtualBox | | 
+VMWare VSphere/ESXI | | 
+VMWare Workstation | | 
 
 #### Niche/Other
-
+OS | Proficiency | Notes
+------ | ----- | ------
+FreeBSD | | 
+OpenBSD | | 
+PFSense | | 
+ChromeOS | |
 </details>
   
 # Shells, Scripting languages, and OS automation systems
