@@ -1,6 +1,6 @@
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer. It was last updated on 2021/21/06
+This GitHub serves as my portfolio as a software developer. It was last updated on 2021/22/06
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -48,7 +48,7 @@ Mastered skills are those I consider myself truely complete in. There's always m
 # Platforms
 
 # Skills I am looking to learn
-I may have exposed myself to these skills very, VERY briefly, or gotten experience in since this document was last updated
+I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
 #### Languages
 #### Frameworks and Libraries
 #### Platforms
