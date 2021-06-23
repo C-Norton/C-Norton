@@ -55,7 +55,7 @@ C# | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_
 C++ | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 Java | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: |
 JavaScript | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
-Python | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Python | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I primarily use python for scripting, OS automation, and data processing. As such, while I could pick it up quickly, I'm not super well versed in the object oriented side of the language, as I've not used python for large projects. To me, it is a more flexible wrapper for OS shells that allow me to do logic and data processing far easier than doing it directly in shell.
 Prolog | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Ruby | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Rust | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -65,9 +65,23 @@ SQL | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue
 VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 </details>
   
-# Shells, Scripting languages, and automation systems
-Bash
-Powershell
+# Operating Systems
+
+# Shells, Scripting languages, and OS automation systems
+<details><Summary>While I don't have shell documentation memorized, and usually need documentation to hand for the core busybox applications and their equivalents in other OSes, I am generally very comfortable in any kind of shell, and can happily script tasks in them. Shells for networking hardware operating systems covered elsewhere in this document</summary>
+
+Technology | Proficiency | Notes
+----- | ----- | ------
+AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  
+Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and to a lesser extent Ubuntu. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
+CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste
+Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
+WMIC | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  | I've explored WMIC/WMI briefly as a solution to the specific technical problem of uninstalling certain programs via Connectwise Control's "Backstage" environment to perform these operations without end user interruption when scripting out an install was not possible due to limitations by the installer package. While I know it's primarily used as a Powershell utility, I actually have primarily interacted with WMIC via CMD. I recognize that there's a LOT more the tool can do than forcing program installations, I've just not run into cases where I've needed it.
+Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I'm capable in zsh, and, if it were sufficiently popular as an embedded alternative to bash, I could see myself loving it more. As is, it's niche, but nice, I guess. I wouldn't say that, beyond the customization and color features that I've explored much of the areas it has a leg up on bash all that much. From what I've seen, it looks nice
+
+
+
+
 
 # Markup Languages
 
@@ -97,9 +111,8 @@ VHDL
 # Low code / IPAAS / no code platforms
 # Frameworks, APIs and Libraries
 # Version Control
-
-# Platforms
-
+# Service Delivery Software
+# IT Platforms
 # Skills I am looking to learn
 I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
 
