@@ -44,45 +44,20 @@ Mastered skills are those I consider myself truely complete in. There's always m
 # Higher Level Languages
 ###### Note that I've divided languages into categories by their use. I suggest CTRL-F if you are looking for a skill or language in particular, or at least perusing the lower categories as well. I've tried to sort categories by the order of relevance to most employers looking to hire a programmer or devops engineer.
 
-C
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
-
-C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
-
-C#
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-C++
-:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Java
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:
-
-JavaScript
-:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Python
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Ruby
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Rust
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Scala
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Smalltalk
-:large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-SQL
-:large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-H2 dialect, but it's SQL, to say its easy to switch between is an understatement.
-
-VBA
-:large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Language | Proficiency | Notes &nbsp;
+------ | -------------- | ----------------
+C | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
+C# | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+C++ | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+Java | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: |
+JavaScript | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+Python | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Ruby | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Rust | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Scala | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Smalltalk | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+SQL | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | H2 dialect, but it's SQL, to say its easy to switch between is an understatement.
+VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 
 # Shells, Scripting languages, and automation systems
 Bash
