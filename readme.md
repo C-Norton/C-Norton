@@ -8,6 +8,10 @@ I pride myself on being a technology generalist that can learn how to produce qu
 This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, any work for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 # Key for this Document
+<ul>
+  
+## Table of Contents
+  
 <details><Summary>Skill Level Criteria</summary>
 
 Level | Symbol | Description and Criteria
@@ -19,13 +23,15 @@ Highly Proficient | :large_blue_diamond: :large_blue_diamond: :large_blue_diamon
 Mastered | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mastered skills are those I consider myself truely complete in. There's always more learning to be done, of course, but either the technology in question is small enough that its possible to truly understand every single feature, configuration, and syntax quirk, or, for larger technologies, this usually implies hundreds and hundreds of hours of work in it, at least, to the point where if there's a type of problem the tool can be used for, I've likely used it that way, and misused it in several others. This is likely a go to tool of some kind for me. I usually keep up to date with the updates to the tool to maintain this level of skill, or list a specific version that I am up to date on. ~~I also consider a tool mastered if my wife reports me talking in my sleep about it on more than one occasion.~~
 
 </details>
+  
+</ul>
 
 # Skills
 
   
 <details><summary>Computer Languages and Shells</summary>
   
-###### Note that I've divided languages into categories by their use. You may find languages that are not exclusively or primarily used for the development of desktop applications in other sections below.
+##### Note that I've divided languages into categories by their use. You may find languages that are not exclusively or primarily used for the development of desktop applications in other sections below.
 <ul>
 <details><summary>Higher level programming languages</summary>
 
@@ -59,7 +65,7 @@ Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_b
 </details>
 <details><summary>Markup, Notation, and Text Processing Languages</summary>
 
-Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. There's a lot more to RegEx than YAML, for instance, so more work for RegEx to reach a similar level of comprehension.
+###### Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. There's a lot more to RegEx than YAML, for instance, so more work for RegEx to reach a similar level of comprehension.
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
@@ -83,7 +89,7 @@ PowerPC 1.10 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :s
 </details>
 
 <details><summary>Hardware Description Languages</summary>
-
+###### I originally was exposed to Hardware Description Languages in college. While I picked up VHDL fairly well, I did not pursue things further as computer engineering simply was not my cup of tea. I do not anticipate pursuing VHDL further, though, if I had to work on 
 Technology | Proficiency | Notes
 ----- | ----- | ------
 VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
@@ -203,6 +209,13 @@ Platform | Proficiency | Notes
 ------ | ----- | ------
 
 </details>
+
+<details><summary>Important Unix Administration Utilities</summary>
+  
+Platform | Proficiency | Notes
+------ | ----- | ------
+</details>
+
 <details><summary>Enterprise Networking Ecosystems</summary>
   
 Platform | Proficiency | Notes
