@@ -52,6 +52,7 @@ C++ | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 Java | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: |
 JavaScript | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 Python | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Prolog | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Ruby | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Rust | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Scala | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -99,7 +100,6 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 Erlang
 Perl
-Prolog
 Lisp
 Typescript
 Haskell
