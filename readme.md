@@ -205,7 +205,7 @@ Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_b
 SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
 TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Unity | :large_blue_diamond: :large_blue_diamond: large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
