@@ -134,14 +134,14 @@ MacOS (Versions > 10.13) | :large_blue_diamond: :large_blue_diamond: :small_blue
 
 OS | Proficiency | Notes
 ------ | ------- | -------
-Windows Server 2008 and before | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Windows Server 2012 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Windows Server 2016 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Windows Server 2019 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Linux (RHEL/CentOS/Rocky) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Linux (Ubuntu) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2008 and before | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2012 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2016 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Windows Server 2019 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Linux (RHEL/CentOS/Rocky) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (Ubuntu) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Linux (Debian) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Linux (OpenSuse) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (OpenSuse) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 
 </details>
 
@@ -151,10 +151,10 @@ Linux (OpenSuse) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond
 
 Hypervisor | Proficiency | Notes
 ------ | ----- | ------
-Hyper-V | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-VirtualBox | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-VMWare VSphere/ESXI | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-VMWare Workstation | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Hyper-V | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+VirtualBox | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+VMWare VSphere/ESXI | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+VMWare Workstation | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 
 </details>
 
@@ -164,10 +164,12 @@ VMWare Workstation | :large_blue_diamond: :small_blue_diamond: :small_blue_diamo
 
 OS | Proficiency | Notes
 ------ | ----- | ------
+ChromeOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 OpenBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-PFSense | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-ChromeOS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+PFSense | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+
 
 </details>
 </ul>
@@ -244,8 +246,6 @@ Platform | Proficiency | Notes
 # Skills I am looking to learn
 <ul>
 I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
-
-
 
 #### Languages
 
