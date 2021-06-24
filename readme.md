@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/22/06
+This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/24/06
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -59,7 +59,7 @@ VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  
+AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  I love autohotkey as a means of expanding what I can get done on Windows, and addressing some of the shortfalls in customization and functionality of the OS. I haven't needed to go super in depth with it, I know it's more powerful than what I've used, but I've used enough to get things done.
 Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and to a lesser extent Ubuntu. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
 CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste
 Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
@@ -72,13 +72,13 @@ Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_b
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-CSS |  | 
-HTML5 |  | 
-JSON |  | 
-Markdown |  | 
-Regular Expressions |  | 
-XML |  | 
-YAML |  | 
+CSS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+HTML5 | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+JSON | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Markdown | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Regular Expressions | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+XML | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 
 </details>
 
@@ -113,19 +113,20 @@ Refers to proficiency BOTH with using the OSes personally, and supporting users 
 
 OS | Proficiency | Notes
 ------ | ------- | -------
-Windows XP | | 
-Windows Vista | | Okay, but does this actually MATTER to anyone
-Windows 7 | | 
-Windows 8 | | See notes for vista
-Windows 10 | | 
-Linux (Ubuntu) | | 
-Linux (Arch) | | 
-Linux (Fedora) | |
-Linux (Debian) | | 
-Linux (OpenSuse) | | 
-MacOS (Versions < 10.7) | | 
-MacOS (Versions 10.7 - 10.13) | | 
-MacOS (Versions > 10.13) | | 
+Windows XP | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+Windows Vista | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Okay, but does this actually MATTER to anyone
+Windows 7 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Windows 8 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See notes for vista
+Windows 10 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Linux (Arch) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+Linux (Debian) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (Fedora) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+Linux (Mint) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (OpenSuse) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (Ubuntu) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+MacOS (Versions < 10.7) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+MacOS (Versions 10.7 - 10.13) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+MacOS (Versions > 10.13) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 </details>
   
 
@@ -133,14 +134,14 @@ MacOS (Versions > 10.13) | |
 
 OS | Proficiency | Notes
 ------ | ------- | -------
-Windows Server 2008 and before | | 
-Windows Server 2012 | | Okay, but does this actually MATTER to anyone
-Windows Server 2016 | | 
-Windows Server 2019 | | See notes for vista
-Linux (RHEL/CentOS/Rocky) | | 
-Linux (Ubuntu) | | 
-Linux (Debian) | | 
-Linux (OpenSuse) | | 
+Windows Server 2008 and before | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2012 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2016 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Windows Server 2019 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (RHEL/CentOS/Rocky) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (Ubuntu) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (Debian) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (OpenSuse) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 
 </details>
 
@@ -150,10 +151,10 @@ Linux (OpenSuse) | |
 
 Hypervisor | Proficiency | Notes
 ------ | ----- | ------
-Hyper-V | | 
-VirtualBox | | 
-VMWare VSphere/ESXI | | 
-VMWare Workstation | | 
+Hyper-V | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+VirtualBox | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+VMWare VSphere/ESXI | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+VMWare Workstation | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 
 </details>
 
@@ -163,10 +164,10 @@ VMWare Workstation | |
 
 OS | Proficiency | Notes
 ------ | ----- | ------
-FreeBSD | | 
-OpenBSD | | 
-PFSense | | 
-ChromeOS | |
+FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+OpenBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+PFSense | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+ChromeOS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 
 </details>
 </ul>
