@@ -181,14 +181,30 @@ QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
-
+Microsoft Power Apps | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Microsoft Power Automate | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Zapier | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 </Details>
 <details><summary>Frameworks, APIs and Libraries</summary>
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
+Java Standard Library |  | 
+.Net Core |  | 
+.Net Framework |  | 
+Mono |  | 
+Unity |  | 
+Pandas |  | 
+NumPy |  | 
+SciPy |  | 
+Matplotlib |  | 
+H2 |  | 
+GTK |  | 
+Glade |  | 
+TinyDB |  | 
+CImg |  | 
 </details>
-<details><summary>Development Tools and Version Control</summary>
+<details><summary>Development Tools, Build Systems, and Version Control</summary>
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
