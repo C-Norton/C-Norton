@@ -234,7 +234,7 @@ Platform | Proficiency | Notes
 
 </details>
 
-<details><summary>Important Unix Administration Utilities</summary>
+<details><summary>Important Unix Administration Utilities and Windows Server Modules</summary>
   
 Platform | Proficiency | Notes
 ------ | ----- | ------
