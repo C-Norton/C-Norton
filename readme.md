@@ -189,25 +189,34 @@ Zapier | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_b
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
-Java Standard Library |  | 
-.Net Core |  | 
-.Net Framework |  | 
-Mono |  | 
-Unity |  | 
-Pandas |  | 
-NumPy |  | 
-SciPy |  | 
-Matplotlib |  | 
-H2 |  | 
-GTK |  | 
-Glade |  | 
-TinyDB |  | 
-CImg |  | 
+CImg | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+CUnit | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+.Net Core | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+.Net Framework | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Glade | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+GTK | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+H2 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+JUnit | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Lanterna | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Matplotlib | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Mono | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+NumPy | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Unity | :large_blue_diamond: :large_blue_diamond: large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
+Git |  | 
+Mercurial |  | 
+Visual Studio |  | 
+Trello |  | 
+Jira |  |
+JetBrains IDEs |  | 
 </details>
 
 <details><summary>Development techniques and methodologies</summary>
