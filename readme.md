@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/24/06
+This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/25/06
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -221,8 +221,12 @@ JetBrains IDEs |  |
 
 <details><summary>Development techniques and methodologies</summary>
   
-Platform | Proficiency | Notes
+Methodology | Proficiency | Notes
 ------ | ----- | ------
+Test Driven Development |  | 
+Agile |  | 
+Scrum |  | 
+Waterfall |  | 
 </details>
 
 <details><summary>Development "Soft Skills"</summary>
