@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/25/06
+This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/06/27
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -72,11 +72,11 @@ Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_b
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-CSS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-HTML5 | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-JSON | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+CSS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've worked a little with CSS. I'm very much a backend guy; my visual design skills are lacking, so I don't have a ton of need for CSS. That being said, I've made a few websites here and there, and have picked up some knowledge in CSS as a result.
+HTML5 | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See the above. Typically, if I'm making a website, its a utilitarian thing, so I can stick with HTML5 as a relatively pure platform, hence my additional experience with it.
+JSON | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've used JSON files as a means of storage and serialization for a number of smaller projects. I'm familiar with the format and writing parsers for it.
 Markdown | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-Regular Expressions | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Regular Expressions | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | While I won't claim to have the entire language of RegEx memorized, I do have the basics sufficient for most searches down without reference, and I can construct an expression to check what I need to quickly. I've used it frequently as a tool for data sanitization and to clean up files full of messy data that I want to process.
 XML | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 
