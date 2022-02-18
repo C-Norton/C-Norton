@@ -1,11 +1,14 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer. This document was last updated on 2021/06/27
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on 2022/02/17
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
 This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, any work for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
+
+
+# NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
 
 # Key for this Document
 <ul>
@@ -59,11 +62,11 @@ VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |  I love autohotkey as a means of expanding what I can get done on Windows, and addressing some of the shortfalls in customization and functionality of the OS. I haven't needed to go super in depth with it, I know it's more powerful than what I've used, but I've used enough to get things done.
-Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and to a lesser extent Ubuntu. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
-CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste
-Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
-WMIC | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  | I've explored WMIC/WMI briefly as a solution to the specific technical problem of uninstalling certain programs via Connectwise Control's "Backstage" environment to perform these operations without end user interruption when scripting out an install was not possible due to limitations by the installer package. While I know it's primarily used as a Powershell utility, I actually have primarily interacted with WMIC via CMD. I recognize that there's a LOT more the tool can do than forcing program installations, I've just not run into cases where I've needed it.
+AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: |  I love autohotkey as a means of expanding what I can get done on Windows, and addressing some of the shortfalls in customization and functionality of the OS. I haven't gotten too crazy with it, but I have worked with the MS office library for AHK to automate some functions in Outlook, such as the creation of rules.
+Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and my current position as a software support specialist for software that runs on CentOS 7. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
+CMD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | As a Windows admin first and foremost for larger environments, CMD is my bread and butter. While powershell is nice, for most maintence tasks, CMD is just... easier, with less picky syntax, even if it is living in the past a little bit. Its often also just easier to get a CMD shell in half functioning windows environment, so I don't consider the proficiency a waste.
+Powershell | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Powershell is a skillset that I've picked up bits and pieces of. It's a powerful tool, but there's a LOT there. I've used it primarily for writing scripts to automate active directory bulk operations. I've looked a little bit at Powershell's integration with the .Net ecosystem, and, while it looks very powerful, that's a rabbit hole of learning I have not yet had time to go down. I love working in powershell, I just have a preference for CMD due to years of comfort in it.
+WMIC | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  | I've explored WMIC/WMI briefly as a solution to the specific technical problem of uninstalling certain programs via Connectwise Control's "Backstage" environment, with the goal being to perform these operations without end user interruption when scripting out an install was not possible due to limitations by the installer package. While I know it's primarily used as a Powershell utility, I actually have primarily interacted with WMIC via CMD. I recognize that there's a LOT more the tool can do than forcing program installations, I've just not run into cases where I've needed it.
 Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | I'm capable in zsh, and, if it were sufficiently popular as an embedded alternative to bash, I could see myself loving it more. As is, it's niche, but nice, I guess. I wouldn't say that, beyond the customization and color features that I've explored much of the areas it has a leg up on bash all that much. From what I've seen, it looks nice
 </details>
 <details><summary>Markup, Notation, and Text Processing Languages</summary>
@@ -76,9 +79,9 @@ CSS | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue
 HTML5 | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See the above. Typically, if I'm making a website, its a utilitarian thing, so I can stick with HTML5 as a relatively pure platform, hence my additional experience with it.
 JSON | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've used JSON files as a means of storage and serialization for a number of smaller projects. I'm familiar with the format and writing parsers for it.
 Markdown | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-Regular Expressions | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | While I won't claim to have the entire language of RegEx memorized, I do have the basics sufficient for most searches down without reference, and I can construct an expression to check what I need to quickly. I've used it frequently as a tool for data sanitization and to clean up files full of messy data that I want to process.
-XML | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Regular Expressions | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | While I won't claim to have the entire language of RegEx memorized, I do have the basics sufficient for most searches down without reference, and I can construct an expression to check what I need to quickly. I've used it frequently as a tool for data sanitization and to clean up files full of messy data that I want to process. I'm most familiar with Java's scanner dialect of Regex, followed closely by the Perl implementation.
+XML | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | It's XML. It's not fancy. I've written a few parsers here and there, but not used it extensively, But it's also human readable.
+YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Everyone's favorite XML/JSON alternative, I've used a LOT of YAML over the years. I've written parsers, configured systems that consisted of hundreds of YAML files for configuration, and generally gotten down and dirty. It ain't a markup language, but it's my favorite markup language. That said, despite my familiarity with it, if I'm doing a new project, I'll do XML or JSON, because that's the direction the industry is going.
 
 </details>
 
@@ -86,18 +89,18 @@ YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blu
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-MIPS | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
-Arm Cortex M0+ | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-PowerPC 1.10 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+MIPS | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've worked as extensively in MIPS as one can bearing in mind that hardware implementations of the ISA are few and far between. I'm not an expert on any particular implementation, but I've written software in it, and tutored in it.
+Arm Cortex M0+ | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My exposure to the Arm Cortex M0+ ISA is limited, but more than nothing. I mostly used it for a course in college to a limited capacity.
+PowerPC 1.10 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My Power PC knowledge comes from attempted submissions to the Dolphin GameCube Emulator project. As such, my knowledge is limited to early 2000s versions of the ISA, and are VERY limited in use case.
 </details>
 
 <details><summary>Hardware Description Languages</summary>
  
-###### I originally was exposed to Hardware Description Languages in college. While I picked up VHDL fairly well, I did not pursue things further as computer engineering simply was not my cup of tea. I do not anticipate pursuing VHDL further, though, if I had to work on 
+###### I originally was exposed to Hardware Description Languages in college. While I picked up VHDL fairly well, I did not pursue things further as computer engineering simply was not my cup of tea. I do not anticipate pursuing VHDL further, though, if I had to work on projects using HDLs to a limited capacity, I would be comfortable. I have neither the experience, nor the skillset to design hardware or FPGAs. I can read and understand the work of others, however.
 
 Technology | Proficiency | Notes
 ----- | ----- | ------
-VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | VHDL is my greatest enemy, and the main reason I looked to move higher in the abstraction stack than computer engineering. I hear Verilog is better. Personally, I think that assembly is a much better option. Leave the circuits to the electrical engineers.
 </details>
 </ul>
 </details>
@@ -113,12 +116,13 @@ Refers to proficiency BOTH with using the OSes personally, and supporting users 
 
 OS | Proficiency | Notes
 ------ | ------- | -------
-Windows XP | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
-Windows Vista | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Okay, but does this actually MATTER to anyone
-Windows 7 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-Windows 8 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See notes for vista
-Windows 10 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-Linux (Arch) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+Windows XP | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've supported XP in critical legacy applications, as well as, in my limited pentesting experience, worked to exploit XP a few times. It's not my favorite windows OS, but I still miss elements of it to this day. 
+Windows Vista | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Okay, but does this actually MATTER to anyone. Vista is where I really started digging in depth into Windows. It has a special place in my heart, even if it's not popular.
+Windows 7 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 7 remains my favorite OS for management and general day to day use. I don't use it or deploy it anymore, of course, but I do wish there was a 7ish skin of windows 10 that brought back some options that got removed, some registry settings that got changed, and killed off windows 10 settings in favor of control panel. It has its quirks, and I know as many of them as one perosn reasonably can.
+Windows 8 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See notes for vista. Does anyone care about 8? It has no special place for me, other than perhaps the trash can. I know how to work with it, though. A lot of my proficiency comes from server 2012 crossover. 
+Windows 10 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | It's 10. Everyone's on it, and has been for years. I've supported it for years. I still don't like certain aspects, but I know how to live with it. Overall, 10 is the most stable windows yet, which is a very good thing, even if it does take a lot of control away from admins. 
+Windows 11 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've not gotten the chance to work with 11, beyond passingly, quite yet. I'm not exactly happy with some of the UI decisions, but some of the changes to the admin side of things look very promising.
+Linux (Arch) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I fulltimed arch for several years, which was a learning process, to say the least. I'd never run Arch as anything but a hobby; that said, it makes the control freak in me _very_ happy
 Linux (Debian) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Linux (Fedora) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 Linux (Mint) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
@@ -138,7 +142,7 @@ Windows Server 2008 and before | :large_blue_diamond: :large_blue_diamond: :smal
 Windows Server 2012 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Windows Server 2016 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 Windows Server 2019 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-Linux (RHEL/CentOS/Rocky) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Linux (RHEL/CentOS/Rocky) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 Linux (Ubuntu) | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Linux (Debian) | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Linux (OpenSuse) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
@@ -155,6 +159,7 @@ Hyper-V | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_
 VirtualBox | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 VMWare VSphere/ESXI | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 VMWare Workstation | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
 
 </details>
 
@@ -269,6 +274,7 @@ Platform | Proficiency | Notes
   
 Platform | Proficiency | Notes
 ------ | ----- | ------
+WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | WebCRD is a platform for Web2Print implementation and commercial printshop management. My current role is to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles.
 </details>
 </ul>
   
