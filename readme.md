@@ -1,11 +1,11 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on 2022/03/11
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on 2022/03/12
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
-This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, any work for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
+This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, the code for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 
 # NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
@@ -156,11 +156,11 @@ Linux (OpenSuse) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond
 
 Hypervisor | Proficiency | Notes
 ------ | ----- | ------
-Hyper-V | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
-VirtualBox | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
-VMWare VSphere/ESXI | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-VMWare Workstation | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | 
+Hyper-V | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've run several small deployments on Hyper-V, and supported quite a few others. I fundamentally find it to be good at what it does; a great, packaged answer for minor virtualization needs in windows environments, that lacks the features of the larger hypervisors, but is not in a market position to need them either, as it's not TRYING to be the engine behind an entire datacenter.
+VirtualBox | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Virtualbox is a good piece of software for what it does. Like hyper-V, it's limited, but strong in its limitations. For lab work as opposed to full deployments, it's fantastic. I wouldn't use it for anything else, though, even with a firm understanding of basically all its features.
+VMWare VSphere/ESXI | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've not created new deployments with VMWare, but I have maintained smaller deployments (~20 VMs or fewer). Fundamentally, the licensing cost of VMWare is hard to justify vs the Xen ecosystem, as there is feature parity, though the ease of finding talent familiar is a factor.
+VMWare Workstation | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've used VMWare workstation as a lab hypervisor pretty extensively. I like it quite a bit more than Virtualbox, but also find it hard to justify the cost vs free software, seeing as it is for a lab environment, unless, of course, one's prod is VMware as well.
+XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | I run a production environment of 35 VMs, archiected and deployed from scratch on XCP-ng. I am the only engineer involved in this project, which is used to power my small business, run on a dell poweredge r720. As such, XCP-ng is my hypervisor of choice, as I am most familiar with it in production environments 
 
 </details>
 
