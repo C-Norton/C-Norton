@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on 2022/03/12
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/05/21**
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -170,9 +170,9 @@ XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :l
 
 OS | Proficiency | Notes
 ------ | ----- | ------
-ChromeOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
-FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-OpenBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+ChromeOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have managed a deployment of a few dozen Chromebooks given to students and teachers. Overall, I like the OS. What it lacks in remote management tools is made up for by the lack of a need for remote management. It's very easy to train people on, and very hard to screw up by the end user. I would absolutely consider using it again, especially in educational settings, or other places where workloads could be done entirely in SaaS applications.
+FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I spent several weeks, years ago, trying to set up FreeBSD as a firewall and gateway for my home network. In the end, the difficulty, combined with my, at the time, lack of familiarity with CLIs, meant that I was ultimately unsuccessful. That said, I learned a lot doing it. 
+OpenBSD | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | OpenBSD was my first foray into the the BSD ecosystem.
 PFSense | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 
