@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/05/21**
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/05/23**
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -171,14 +171,14 @@ XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :l
 OS | Proficiency | Notes
 ------ | ----- | ------
 ChromeOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have managed a deployment of a few dozen Chromebooks given to students and teachers. Overall, I like the OS. What it lacks in remote management tools is made up for by the lack of a need for remote management. It's very easy to train people on, and very hard to screw up by the end user. I would absolutely consider using it again, especially in educational settings, or other places where workloads could be done entirely in SaaS applications.
-FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I spent several weeks, years ago, trying to set up FreeBSD as a firewall and gateway for my home network. In the end, the difficulty, combined with my, at the time, lack of familiarity with CLIs, meant that I was ultimately unsuccessful. That said, I learned a lot doing it. 
-OpenBSD | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | OpenBSD was my first foray into the the BSD ecosystem.
-PFSense | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I spent several weeks, years ago, trying to set up FreeBSD as a firewall and gateway for my home network. In the end, my frustration with FreeBSD resulted in my switching to PFSense for this purpose. That said, I learned quite a bit in my attempt about a variety of subjects. 
+OpenBSD | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | OpenBSD was my first foray into the the BSD ecosystem, learning from a book of exercises in OpenBSD. With my additional experience in Linux that I have gained over the years, I recently returned to OpenBSD to learn more about the platform, as it seems to have some good, niche uses. I appreciate the depth of its documentation.
+PFSense | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | PFSense is a quality operating system for network devices. Between my own personal explorations with it, my work within networking classes that relied on it, as well as my implementation of it in my home lab, I can certainly get things done in PFSense. That said, I recognize that it is a platform with substantial depth that feels impossible to master without exposure in larger scale environments with more complicated security and network segmentation needs.
+QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | QubesOS is... interesting. I've worked with it a little, and it's piqued my curiousity. Using it invokes the kind of security-paranoia that I would love to have time and mental bandwidth for, while not serving much purpose outside of VERY niche usecases.
 
 
 </details>
-</ul>
+  </ul>
  
 </details>
 </details>
@@ -187,9 +187,9 @@ QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
-Microsoft Power Apps | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Microsoft Power Automate | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Zapier | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+Microsoft Power Apps | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to PowerApps as a means of bringing data into Power Automate. Beyond that, my experience is fleeting.
+Microsoft Power Automate | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've worked with power automate slightly, in attempting to pull data from Dynamics CRM and process it. I like it quite a bit, and, as I'm already a heavy m365 user, I will likely continue to integrate it where I would otherwise use Zapier.
+Zapier | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | of all the IPAAS platforms, I am personally most experienced with Zapier due to its depth of integrations with the tools and platfors I've needed to work with. Overall, I do prefer Power Automate to Zapier in terms of features and ease of use.
 </Details>
 <details><summary>Frameworks, APIs and Libraries</summary>
 
