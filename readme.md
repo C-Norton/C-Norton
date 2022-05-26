@@ -206,12 +206,12 @@ JUnit | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_bl
 Lanterna | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | For the same project that led to my familiarity with H2, I chose Lanterna as our frontend, as it didn't have to be pretty, it just had to work, and be easy. I appreciated its similarity in structure to JavaFX. I would certainly use lanterna again if I needed to create a UI for something in a CLI environment. If I were creating something without the CLI constraints, though, I'd likely use something else. Its almost as much work as a true native GUI, and doesn't exactly look nice. 
 Matplotlib | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've used Matplotlib sparingly in undergrad, as well as with a few tutoring students. It's not that it's bad, just that data visualization is far from a focus of mine. For most purposes, I'd prefer excel.
 Mono | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | While exploring candidates for Yanta, I looked at developing on mono, and dismissed it in favor of DotNetCore. I am also exposed to it when building cross platform projects for Unity.
-NumPy | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
-TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
-Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
+NumPy | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've used NumPy quite a bit when tutoring students in introductory python courses. If I had to handle and process more data than Excel can really be useful for, it would undobtedly be my first choice. While I've not used the deeper features of it at all, using it to handle basic analysis is well within my grasp. Most recently, I used NumPy and Pandas to process data for a personal project correlating US income by zip code with a number of metrics attempting to define happieness.
+Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My experience with Pandas is near identical to that of NumPy. Typically, I've used the two in conjunction. Primarily, I use Pandas primarily to parse data, and process it in Numpy. 
+SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've interacted a little bit with the SciPy section of the Numpy ecosystem. Not very much though. What classes I have worked with have been used primarily for utility functions.
+Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | As part of my work at RIT, I worked with Swing on a variety of projects. I've also tutored students in Swing and built small UI elements in it. Overall, while I don't particularly _LIKE_ working in it, I do know it well, and can get stuff done in it.
+TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My abandoned (hopefully soon to be resurrected) mediaDB project was built on TinyDB. For small, disposable projects, I like it far more than trying to set up SQLite or another lightweight database.
+Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
@@ -275,7 +275,7 @@ Platform | Proficiency | Notes
   
 Platform | Proficiency | Notes
 ------ | ----- | ------
-WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | WebCRD is a platform for Web2Print implementation and commercial printshop management. My current role is to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles.
+WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | WebCRD is a platform for Web2Print implementation and commercial printshop management. My current role is to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I serve as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
 </details>
 </ul>
   
