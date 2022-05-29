@@ -47,7 +47,7 @@ C | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_d
 C# | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | C# is a beautiful language. It's everything I love about java, with 90 ish percent of the flaws of java fixed, and some nice, new features. While I may have learned Java first, C# feels like the language it was trying to be. While I have a bit less experience in it, it is my go to tool.
 C++ | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My experience in C++ is limited, and a lot of my knowledge comes from the similarities with C, rather than C++ specifically. I've had a few small dabblings with it, but nothing to write home about.
 Java | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Of any language, Java is the one I am most experienced in, by far. The only thing that begins to rival it in that respect is C. My familiarity is with Java 8 and before primarily. It's a solid language, but the JRE has... issues, and working in it feels antiquated to me compared to other, newer languages that fill a similar niche. There's just too much redundant code to be written, and I feel like my life is nothing but getters and setters.
-JavaScript | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Not a fan of Javascript. I can hack it, but I avoid it at all costs. Typescript looks like a solution to my hatred of it, but I've not looked into it.
+JavaScript | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Not a fan of Javascript. I can hack it, but I avoid it at all costs. Typescript looks like a solution to my hatred of it, but I've not looked into it. I'm looking to expand both my proficiency and tolerance of Javascript with my "Foundry Accessibility Toolkit" project, featured further below on this page.
 Python | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I primarily use python for scripting, OS automation, and data processing. As such, while I could pick it up quickly, I'm not super well versed in the object oriented side of the language, as I've not used python for large projects. To me, it is a more flexible wrapper for OS shells that allow me to do logic and data processing far easier than doing it directly in shell.
 Prolog | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Very limited experience in Prolog. Specifically SWI-Prolog. I have a lot to learn from it as a language, and want to get back to it.
 Ruby | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Very limited experience in Ruby. From what I've used, I really like it. It has all the good of Python while being easier to switch in and out of due to meeting standard syntax conventions, which I like, a lot. I simply haven't really had the opportunity to explore more.
@@ -217,7 +217,7 @@ Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_bl
 
 Platform | Proficiency | Notes
 ------ | ----- | ------
-Git |  | 
+Git | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | I feel I know just about all there is to know about Git. I've been using it for nearly a decade now.
 Mercurial |  | 
 Visual Studio |  | 
 Trello |  | 
@@ -308,6 +308,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 # Projects in progress
 
 <ul>
+**Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.
 </ul>
 
 # Projects on hold
