@@ -308,7 +308,8 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 # Projects in progress
 
 <ul>
-**Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.
+<li>**Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.</li>
+<li>**GMTK Gamejam 2021** - In 2021, I was the sole programmer for a game. </li>
 </ul>
 
 # Projects on hold
