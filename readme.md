@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/05/23**
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/06/01**
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -218,9 +218,9 @@ Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_bl
 Platform | Proficiency | Notes
 ------ | ----- | ------
 Git | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | I feel I know just about all there is to know about Git. I've been using it for nearly a decade now.
-Mercurial |  | 
-Visual Studio |  | 
-Trello |  | 
+Mercurial | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I expirimented with Mercurial in college, to see if there were any major benefits in terms of ease of source management vs git for small, 1-5 person projects. There were not. At this point, I'd use git for one man projects over Mercurial. In situations where Git is unsuitable, mercurial COULD be a good tool for a small team, but I'd really question if there is such a situation where source control is needed, git is unsuitable, and Mercurial is. 
+Visual Studio | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to the Visual Studio ecosystem by virtue of being a programmer in the modern era. That said, while I've expirmented with VSCode as an alternative to other tools for a bit here and there, I will still make a JetBrains tool work if at all possible.
+Trello | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Trello is one of my core organizational tools. I use it constantly, and would not survive without it or a similar tool. As such, I'm intimately familiar. Of course, there's also not a lot to Trello...
 Jira |  |
 JetBrains IDEs |  | 
 </details>
