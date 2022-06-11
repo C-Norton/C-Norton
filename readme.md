@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/06/03**
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2022/06/11**
 
 I pride myself on being a technology generalist that can learn how to produce quality of work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -309,7 +309,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 <ul>
 <li>**Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.</li>
-<li>**GMTK Gamejam 2021** - In 2021, I was the sole programmer for a game. </li>
+<li>**GMTK Gamejam 2021** - In 2021, I was the sole programmer for a game. While it was initially planned that 2 other programmers would join our group of 5, both dropped out of the jam midway through due to personal reasons, without code contributions. As such, while we were unable to submit, due to a number of bugs, I still learned a lot about Unity by attempting.</li>
 </ul>
 
 # Projects on hold
