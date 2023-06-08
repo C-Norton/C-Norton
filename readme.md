@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/05/04**
+This GitHub serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/06/08**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -212,7 +212,7 @@ Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_b
 SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've interacted a little bit with the SciPy section of the Numpy ecosystem. Not very much though. What classes I have worked with have been used primarily for utility functions.
 Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | As part of my work at RIT, I worked with Swing on a variety of projects. I've also tutored students in Swing and built small UI elements in it. Overall, while I don't particularly _LIKE_ working in it, I do know it well, and can get stuff done in it.
 TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My abandoned (hopefully soon to be resurrected) mediaDB project was built on TinyDB. For small, disposable projects, I like it far more than trying to set up SQLite or another lightweight database.
-Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
+Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
@@ -223,7 +223,7 @@ Mercurial | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :smal
 Visual Studio | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to the Visual Studio ecosystem by virtue of being a programmer in the modern era. That said, while I've expirmented with VSCode as an alternative to other tools for a bit here and there, I will still make a JetBrains tool work if at all possible.
 Trello | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Trello is one of my core organizational tools. I use it constantly, and would not survive without it or a similar tool. As such, I'm intimately familiar. Of course, there's also not a lot to Trello...
 Jira | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've used numerous ticketing systems over the years. OF these, Jira is the most popular as it is the only one not specific to the managed services industry. I've been in roles both managing Jira instances and using it as a technician/ developer to track work.
-JetBrains IDEs | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | For 7 years now, my goto toolkit for any programming project I can use them for has been Jetbrains' suite of IDEs; I know how to use just about all of their options to greatest effect in the languages I am familiar with, and have even expirimented briefly with plugin development. I love them, and will likely continue using them until the end of time. I've worked with these tools in Visual Studio centric environments, and am very familiar with converting project configurations between the two ecosystems.
+JetBrains IDEs | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Since 2015 my goto toolkit for any programming project I can use them for has been Jetbrains' suite of IDEs; I know how to use just about all of their options to greatest effect in the languages I am familiar with, and have even expirimented briefly with plugin development. I love them, and will likely continue using them until the end of time. I've worked with these tools in Visual Studio centric environments, and am very familiar with converting project configurations between the two ecosystems.
 </details>
 
 <details><summary>Development techniques and methodologies</summary>
@@ -279,7 +279,7 @@ Platform | Proficiency | Notes
 ArchivesSpace | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Omeka Classic | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 Omeka S | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | 
-WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
+WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
 </details>
 </ul>
   
