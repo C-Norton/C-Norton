@@ -41,7 +41,7 @@ Mastered | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large
 <ul>
 <details><summary>Higher level programming languages</summary>
 
-  Language | Proficiency<img width=250 /> | Notes 
+  Language<img width=150 /> | Proficiency<img width=250 /> | Notes <img width=650 />
 ------ | -------------- | ----------------
 C | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
 C# | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | C# is a beautiful language. It's everything I love about java, with 90 ish percent of the flaws of java fixed, and some nice, new features. While I may have learned Java first, C# feels like the language it was trying to be. While I have a bit less experience in it, it is my go to tool.
