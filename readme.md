@@ -41,7 +41,7 @@ Mastered | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large
 <ul>
 <details><summary>Higher level programming languages</summary>
 
-  Language<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+  Language<img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ------ | -------------- | ----------------
 C | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | C is my goto language for anything that it makes sense for. Most of my experience is using the GCC compiler configured for C99. I love the speed, power, flexibility and control C offers. I recognize that it certainly falls off in programmer efficiency for large scale applications, so for anything that doesn't need the level of control that's going to be a large codebase, I typically default to C#
 C# | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | C# is a beautiful language. It's everything I love about java, with 90 ish percent of the flaws of java fixed, and some nice, new features. While I may have learned Java first, C# feels like the language it was trying to be. While I have a bit less experience in it, it is my go to tool.
@@ -61,7 +61,7 @@ VBA | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue
 
 <details><Summary>Shells, Scripting languages, and OS automation systems</summary>
 
-Tehcnology <img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Tehcnology <img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ----- | ----- | ------
 AutoHotkey | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: |  I love autohotkey as a means of expanding what I can get done on Windows, and addressing some of the shortfalls in customization and functionality of the OS. I haven't gotten too crazy with it, but I have worked with the MS office library for AHK to automate some functions in Outlook, such as the creation of rules.
 Bash | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | If I could have one shell, bash would be it. Most of my bash experience comes from living on Arch linux for several years, and my current position as a software support specialist for software that runs on CentOS 7. While for most automation tasks I'm more likely to open up python for bash, for quick and dirty text manipulation, bash is very usable.
@@ -74,7 +74,7 @@ Zshell | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_b
 
 ###### Obviously, with a good portion of these languages/ filetypes, there's not a TON to them. As such, the hourly specifications in the "Skill levels" portion doesn't *really* apply. The proficiency level relates to the amount I've worked with files in the format, and my overall level of comfort with the syntax. There's a lot more to RegEx than YAML, for instance, so more work for RegEx to reach a similar level of comprehension.
 
-Tehcnology <img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Tehcnology <img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ----- | ----- | ------
 CSS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've worked a little with CSS. I'm very much a backend guy; my visual design skills are lacking, so I don't have a ton of need for CSS. That being said, I've made a few websites here and there, and have picked up some knowledge in CSS as a result.
 HTML5 | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | See the above. Typically, if I'm making a website, its a utilitarian thing, so I can stick with HTML5 as a relatively pure platform, hence my additional experience with it.
@@ -88,7 +88,7 @@ YAML | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blu
 
 <details><summary>Assembly Languages and ISAs</summary>
 
-Tehcnology <img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Tehcnology <img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ----- | ----- | ------
 MIPS | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've worked as extensively in MIPS as one can bearing in mind that hardware implementations of the ISA are few and far between. I'm not an expert on any particular implementation, but I've written software in it, and tutored in it.
 Arm Cortex M0+ | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My exposure to the Arm Cortex M0+ ISA is limited, but more than nothing. I mostly used it for a course in college to a limited capacity.
@@ -99,7 +99,7 @@ PowerPC 1.10 | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :s
 
 ###### I originally was exposed to Hardware Description Languages in college. While I picked up VHDL fairly well, I did not pursue things further as computer engineering simply was not my cup of tea. I do not anticipate pursuing VHDL further, though, if I had to work on projects using HDLs to a limited capacity, I would be comfortable. I have neither the experience, nor the skillset to design hardware or FPGAs. I can read and understand the work of others, however.
 
-Tehcnology <img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Tehcnology <img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ----- | ----- | ------
 VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | VHDL is my greatest enemy, and the main reason I looked to move higher in the abstraction stack than computer engineering. I hear Verilog is better. Personally, I think that assembly is a much better option. Leave the circuits to the electrical engineers.
 </details>
@@ -108,14 +108,14 @@ VHDL | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blu
 
 <details><summary>Operating Systems and Hypervisors</summary>
 
-###### As a whole, for the desktop, I typically prefer Windows for most purposes, but for software development, I typically prefer Linux OSes for the flexibility of other window managers and customization options. For server uses, I opt for the correct tool for the job. For small and medium businesses, that is usually windows, but for anything performance intensive, or for larger networks, Linux servers are the way to go.
+##### As a whole, for the desktop, I typically prefer Windows for most purposes, but for software development, I typically prefer Linux OSes for the flexibility of other window managers and customization options. For server uses, I opt for the correct tool for the job. For small and medium businesses, that is usually windows, but for anything performance intensive, or for larger networks, Linux servers are the way to go.
 <ul>
 
 <details><summary>Desktop Operating Systems by Vendor and Version</summary>  
 
 Refers to proficiency BOTH with using the OSes personally, and supporting users using the OS in small to medium business settings (defined here as having a fileserver, directory server, cloud or onprem email, DNS and print server may or may not be present, with fairly homogenous enviornments of OSes, save Mac, for which I assume windows servers.)
 
-OS<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+OS<img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ------ | ------- | -------
 Windows XP | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've supported XP in critical legacy applications, as well as, in my limited pentesting experience, worked to exploit XP a few times. It's not my favorite windows OS, but I still miss elements of it to this day. 
 Windows Vista | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Okay, but does this actually MATTER to anyone. Vista is where I really started digging in depth into Windows. It has a special place in my heart, even if it's not popular.
@@ -137,7 +137,7 @@ MacOS (Versions > 10.13) | :large_blue_diamond: :large_blue_diamond: :small_blue
 
 <details><summary>Server Operating Systems by Vendor and Version</summary>  
 
-OS<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+OS<img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ------ | ------- | -------
 Windows Server 2008 and before | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Server 2008 was my introduction to Windows Server. While I've worked on earlier, the latest and greatest when I started was 2008. There's really not much to say here. It's Windows Server, It's Vista based. I love Vista, but 2012/7 came out right after I started working on servers, and I didn't have a position with legacy deployments at that point, so as soon as I cut my teeth, I stopped really seeing it.
 Windows Server 2012 | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I love Windows 7. I therefore loved Server 2012. I haven't seen it in prod in a long time. The industry kinda got stuck between the servers still running 2003, and the servers that could be reliably updated that moved to 2016 and 2019. When I see it, I don't think of it as any different than the other modern Windows Servers, other than the tweaks to AD since then, like the AD trash can. So far, this approach has not failed  me.
@@ -155,7 +155,7 @@ Linux (OpenSuse) | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond
 
 <details><summary>Hypervisors</summary>
 
-Hypervisor<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Hypervisor<img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ------ | ----- | ------
 Hyper-V | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I've run several small deployments on Hyper-V, and supported quite a few others. I fundamentally find it to be good at what it does; a great, packaged answer for minor virtualization needs in windows environments, that lacks the features of the larger hypervisors, but is not in a market position to need them either, as it's not TRYING to be the engine behind an entire datacenter.
 VirtualBox | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | Virtualbox is a good piece of software for what it does. Like hyper-V, it's limited, but strong in its limitations. For lab work as opposed to full deployments, it's fantastic. I wouldn't use it for anything else, though, even with a firm understanding of basically all its features.
@@ -169,7 +169,7 @@ XCP-ng / Xen | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :l
 
 <details><Summary>Niche/Other</summary>
 
-OS<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+OS<img width=150 /> | Proficiency<img width=290 /> | Notes<img width=650 />
 ------ | ----- | ------
 ChromeOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have managed a deployment of a few dozen Chromebooks given to students and teachers. Overall, I like the OS. What it lacks in remote management tools is made up for by the lack of a need for remote management. It's very easy to train people on, and very hard to screw up by the end user. I would absolutely consider using it again, especially in educational settings, or other places where workloads could be done entirely in SaaS applications.
 FreeBSD | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I spent several weeks, years ago, trying to set up FreeBSD as a firewall and gateway for my home network. In the end, my frustration with FreeBSD resulted in my switching to PFSense for this purpose. That said, I learned quite a bit in my attempt about a variety of subjects. 
@@ -186,7 +186,7 @@ QubesOS | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_
 
 <details><summary>Low code / IPAAS / no code platforms</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 Microsoft Power Apps | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to PowerApps as a means of bringing data into Power Automate. Beyond that, my experience is fleeting.
 Microsoft Power Automate | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've worked with power automate slightly, in attempting to pull data from Dynamics CRM and process it. I like it quite a bit, and, as I'm already a heavy m365 user, I will likely continue to integrate it where I would otherwise use Zapier.
@@ -194,7 +194,7 @@ Zapier | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_b
 </Details>
 <details><summary>Frameworks, APIs and Libraries</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 CImg | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I worked briefly on CImg with a student I was tutoring. I learned the basics of the library to assist him with some homework. Overall, my time with it was fleeting, but I'd certainly be willing to come back to it, it was a fairly intuitive library.
 CUnit | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My CUnit familiarity comes from its overlap with JUnit. I've looked to integrate it into some of my own projects as well, but I tend to flit from project to project, and haven't had anything stick yet.
@@ -212,11 +212,11 @@ Pandas | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_b
 SciPy | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've interacted a little bit with the SciPy section of the Numpy ecosystem. Not very much though. What classes I have worked with have been used primarily for utility functions.
 Swing | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | As part of my work at RIT, I worked with Swing on a variety of projects. I've also tutored students in Swing and built small UI elements in it. Overall, while I don't particularly _LIKE_ working in it, I do know it well, and can get stuff done in it.
 TinyDB | :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My abandoned (hopefully soon to be resurrected) mediaDB project was built on TinyDB. For small, disposable projects, I like it far more than trying to set up SQLite or another lightweight database.
-Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:  | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
+Unity | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 Git | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | I feel I know just about all there is to know about Git. I've been using it for nearly a decade now.
 Mercurial | :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I expirimented with Mercurial in college, to see if there were any major benefits in terms of ease of source management vs git for small, 1-5 person projects. There were not. At this point, I'd use git for one man projects over Mercurial. In situations where Git is unsuitable, mercurial COULD be a good tool for a small team, but I'd really question if there is such a situation where source control is needed, git is unsuitable, and Mercurial is. 
@@ -228,7 +228,7 @@ JetBrains IDEs | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: 
 
 <details><summary>Development techniques and methodologies</summary>
 
-Methodology<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Methodology<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 Test Driven Development |  |
 Agile |  |
@@ -238,48 +238,48 @@ Waterfall |  |
 
 <details><summary>Development "Soft Skills"</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 </details>
 <details><summary>Service Delivery Software</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 
 </details>
 <details><summary>IT Platforms</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 
 </details>
 
 <details><summary>Important Unix Administration Utilities and Windows Server Modules</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 </details>
 
 <details><summary>Enterprise Networking Ecosystems</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 </details>
 
 <details><summary>Business Software</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 </details>
 
 <details><summary>Other Software</summary>
 
-Platform<img width=150 /> | Proficiency<img width=943 /> | Notes<img width=650 />
+Platform<img width=150 /> | Proficiency<img width=250 /> | Notes<img width=650 />
 ------ | ----- | ------
 ArchivesSpace | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 Omeka Classic | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 Omeka S | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: |
-WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond:  | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
+WebCRD | :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: :large_blue_diamond: | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
 </details>
 </ul>
 
