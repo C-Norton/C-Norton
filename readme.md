@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/06/14**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/08/17**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -214,7 +214,7 @@ Pandas | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue
 SciPy | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've interacted a little bit with the SciPy section of the Numpy ecosystem. Not very much though. What classes I have worked with have been used primarily for utility functions.
 Swing | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | As part of my work at RIT, I worked with Swing on a variety of projects. I've also tutored students in Swing and built small UI elements in it. Overall, while I don't particularly _LIKE_ working in it, I do know it well, and can get stuff done in it.
 TinyDB | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | My abandoned (hopefully soon to be resurrected) mediaDB project was built on TinyDB. For small, disposable projects, I like it far more than trying to set up SQLite or another lightweight database.
-Unity | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually.
+Unity | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | I have a particular interest in games programming. My tool of choice has been Unity. In the 2021 GMTK game jam, a game for whom I was the sole programmer was entered. The code for this incomplete game will be added to this github eventually. I also participated as a solo developer in the 2023 GMTK Game Jam. I have an active game project under development, with more information to be linked here when it is available.
 </details>
 <details><summary>Development Tools, Build Systems, and Version Control</summary>
 
