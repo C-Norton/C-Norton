@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/08/17**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/09/15**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -163,7 +163,7 @@ Hyper-V | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blu
 VirtualBox | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Virtualbox is a good piece of software for what it does. Like hyper-V, it's limited, but strong in its limitations. For lab work as opposed to full deployments, it's fantastic. I wouldn't use it for anything else, though, even with a firm understanding of basically all its features.
 VMWare VSphere/ESXI | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've not created new deployments with VMWare, but I have maintained smaller deployments (~20 VMs or fewer). Fundamentally, the licensing cost of VMWare is hard to justify vs the Xen ecosystem, as there is feature parity, though the ease of finding talent familiar is a factor.
 VMWare Workstation | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | I've used VMWare workstation as a lab hypervisor pretty extensively. I like it quite a bit more than Virtualbox, but also find it hard to justify the cost vs free software, seeing as it is for a lab environment, unless, of course, one's prod is VMware as well.
-XCP-ng / Xen | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I run a production environment of 35 VMs, archiected and deployed from scratch on XCP-ng. I am the only engineer involved in this project, which is used to power my small business, run on a dell poweredge r720. As such, XCP-ng is my hypervisor of choice, as I am most familiar with it in production environments 
+XCP-ng / Xen | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I run a production environment of 35 VMs, archiected and deployed from scratch on XCP-ng. I am the only engineer involved in this project, which is used to power my small business, run on a dell poweredge r720. As such, XCP-ng is my hypervisor of choice, as I am most familiar with it in production environments.
 
 </details>
 
