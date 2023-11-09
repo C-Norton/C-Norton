@@ -341,7 +341,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 <ul></ul>
 
 # Work Experience
-
+<details><summary>Expand</summary>
 As a note, the tenure of some of these positions overlap. That is intended. Near the end of my tenure, I had automated Cornerstone Bread to require infrequent attention, and moved to a consultancy basis with them while I continued with my education. 
 PC Solutions became part time when I picked up Rochester Software Associates, and Tutoring has always been part time. I like to maintain multiple streams of income for stability reasons.
 
@@ -353,7 +353,7 @@ PC Solutions IT Consulting |  |  |
 Rochester Software Associates |  |  | 
 University of Rochester - River Campus Libraries  |  |  | 
 Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
-
+</details>
 
 ##todo
 go through lists, populate
