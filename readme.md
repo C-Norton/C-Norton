@@ -342,14 +342,17 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 # Work Experience
 
-<ul>
-  <li>Cornerstone Bread</li>
-  <li>Capstone Information Technologies</li>
-  <li>PC Solutions IT Consulting</li>
-  <li>Rochester Software Associates</li>
-  <li>University of Rochester - River Campus Libraries</li>
-  <li>Technology Tutor (Independent)</li>
-</ul>
+As a note, the tenure of some of these positions overlap. That is intended. Near the end of my tenure, I had automated Cornerstone Bread to require infrequent attention, and moved to a consultancy basis with them while I continued with my education. 
+PC Solutions became part time when I picked up Rochester Software Associates, and Tutoring has always been part time. I like to maintain multiple streams of income for stability reasons.
+
+Company<img width=190 /> | Position<img width=120 /> | Tenure<img width=120> | Duties<img width=650 /> 
+------ | ----- | ------ | ------
+Cornerstone Bread | IT Manager |  | 
+Capstone Information Technologies |  |  | 
+PC Solutions IT Consulting |  |  | 
+Rochester Software Associates |  |  | 
+University of Rochester - River Campus Libraries  |  |  | 
+Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
 
 
 ##todo
@@ -357,3 +360,4 @@ go through lists, populate
 find a place for discussion of rest API experience.
 find place for specific Linux experience
 showcase IDE experience 
+Add an education and certification section
