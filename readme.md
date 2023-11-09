@@ -247,6 +247,10 @@ Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 /
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
+Connectwise Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
+Kaseya Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
+Atlassian Suite | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
+Microsoft Dynamics 365 | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 
 </details>
 <details><summary>IT Platforms</summary>
