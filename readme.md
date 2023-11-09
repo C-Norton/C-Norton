@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/10/26**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/08**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -232,10 +232,10 @@ JetBrains IDEs | :large_blue_circle: :large_blue_circle: :large_blue_circle: :la
 
 Methodology<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-Test Driven Development |  |
-Agile |  |
-Scrum |  |
-Waterfall |  |
+Test Driven Development | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I was trained in Test Driven Development when I was taught to program at RIT, but have struggled to implement the ideas in practice. That said, I've begun taking active efforts to reemphasize better testing in my code.
+Agile | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
+Scrum | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
+Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
 </details>
 
 <details><summary>Development "Soft Skills"</summary>
@@ -278,7 +278,7 @@ Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 /
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-ArchivesSpace | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
+ArchivesSpace | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
 Omeka Classic | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
 Omeka S | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
 WebCRD | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
@@ -332,4 +332,10 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 # Work Experience
 
-<ul></ul>
+<ul>
+  <li>Cornerstone Bread</li>
+  <li>Capstone Information Technologies</li>
+  <li>PC Solutions IT Consulting</li>
+  <li>Rochester Software Associates</li>
+  <li>University of Rochester - River Campus Libraries</li>
+</ul>
