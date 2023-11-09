@@ -348,6 +348,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
   <li>PC Solutions IT Consulting</li>
   <li>Rochester Software Associates</li>
   <li>University of Rochester - River Campus Libraries</li>
+  <li>Technology Tutor (Independent)</li>
 </ul>
 
 
