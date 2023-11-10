@@ -225,7 +225,6 @@ Git | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_ci
 Mercurial | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I expirimented with Mercurial in college, to see if there were any major benefits in terms of ease of source management vs git for small, 1-5 person projects. There were not. At this point, I'd use git for one man projects over Mercurial. In situations where Git is unsuitable, mercurial COULD be a good tool for a small team, but I'd really question if there is such a situation where source control is needed, git is unsuitable, and Mercurial is. 
 Visual Studio | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to the Visual Studio ecosystem by virtue of being a programmer in the modern era. That said, while I've expirmented with VSCode as an alternative to other tools for a bit here and there, I will still make a JetBrains tool work if at all possible.
 Trello | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Trello is one of my core organizational tools. I use it constantly, and would not survive without it or a similar tool. As such, I'm intimately familiar. Of course, there's also not a lot to Trello...
-Jira | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | I've used numerous ticketing systems over the years. OF these, Jira is the most popular as it is the only one not specific to the managed services industry. I've been in roles both managing Jira instances and using it as a technician/ developer to track work.
 JetBrains IDEs | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:  | Since 2015 my goto toolkit for any programming project I can use them for has been Jetbrains' suite of IDEs; I know how to use just about all of their options to greatest effect in the languages I am familiar with, and have even expirimented briefly with plugin development. I love them, and will likely continue using them until the end of time. I've worked with these tools in Visual Studio centric environments, and am very familiar with converting project configurations between the two ecosystems.
 Docker | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I have some exposure to Docker through my work at the University of Rochester, specifically on our internal development for ArchivesSpace, which requires Docker to be built for further development. Getting this particular project building in docker was quite the pain, as a result, I learned a ton about the system, that said, my exposure comes primarily from this limited use case.
 </details>
@@ -284,6 +283,9 @@ WatchGuard | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
+Microsoft 365 Administration | | 
+Microsoft Office Suite | | 
+Asana | |
 </details>
 
 <details><summary>Other Software</summary>
