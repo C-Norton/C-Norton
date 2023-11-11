@@ -328,9 +328,9 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 # Projects in progress
 
 <ul>
-  <li>**Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.</li>
-  <li>**GMTK Gamejam 2021** - In 2021, I was the sole programmer for a game. While it was initially planned that 2 other programmers would join our group of 5, both dropped out of the jam midway through due to personal reasons, without code contributions. As such, while we were unable to submit, due to a number of bugs, I still learned a lot about Unity by attempting.</li>
-  <li>**ArchivesSpace Bulk Edit UI** - As a side project for work, I've been creating a user interface for performing resource-level/ collection level updates to records in ArchivesSpace conditionally, functionality that is not provided out of the box. This is made possible through the ArchivesSpace Rest API. To make this accessible to our Librarians, I am building it with a GUI using TKinter. [You can view the WIP code for the GUI portion here.](https://github.com/C-Norton/BulkEditUI)</li>
+  <li> **Foundry Accessibility Tooklit** - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.</li>
+  <li> **GMTK Gamejam 2021** - In 2021, I was the sole programmer for a game. While it was initially planned that 2 other programmers would join our group of 5, both dropped out of the jam midway through due to personal reasons, without code contributions. As such, while we were unable to submit, due to a number of bugs, I still learned a lot about Unity by attempting.</li>
+  <li> **ArchivesSpace Bulk Edit UI** - As a side project for work, I've been creating a user interface for performing resource-level/ collection level updates to records in ArchivesSpace conditionally, functionality that is not provided out of the box. This is made possible through the ArchivesSpace Rest API. To make this accessible to our Librarians, I am building it with a GUI using TKinter. [You can view the WIP code for the GUI portion here.](https://github.com/C-Norton/BulkEditUI)</li>
 </ul>
 
 # Projects on hold
