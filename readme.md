@@ -26,7 +26,9 @@ This document will outline the projects I have done, the technologies I have wor
   <li><a href="https://github.com/C-Norton/C-Norton/tree/main#soft-skills">Soft Skills</a></li>
   <li><a href="https://github.com/C-Norton/C-Norton/tree/main#work-experience">Professional Experience</a></li>
 </ul>
+
 ## Skill Level Criteria
+
 <ul> 
 <details><Summary>Expand</summary>
 
