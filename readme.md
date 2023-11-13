@@ -11,10 +11,21 @@ This document will outline the projects I have done, the technologies I have wor
 ### NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
 
 # Key for this Document
-<ul>
+<ul></ul>
 
 ## Table of Contents
-
+<ul>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#introduction">Introduction</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#key-for-this-document">Key for This Document</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#skills">Skills</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#skills-i-am-looking-to-learn">Skills I'm looking to learn</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#projects-completed">Completed Projects</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#projects-in-progress">In Progress Projects</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#projects-on-hold">On Hold Projects</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#open-source">Open Source Activity</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#soft-skills">Soft Skills</a></li>
+  <li><a href="https://github.com/C-Norton/C-Norton/tree/main#work-experience">Professional Experience</a></li>
+</ul>
 ## Skill Level Criteria
 <ul> 
 <details><Summary>Expand</summary>
