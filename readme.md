@@ -1,14 +1,14 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/09**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/12**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
 This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, the code for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 
-# NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
+### NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
 
 # Key for this Document
 <ul>
@@ -233,8 +233,8 @@ Docker | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blu
 Methodology<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
 Test Driven Development | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I was trained in Test Driven Development when I was taught to program at RIT, but have struggled to implement the ideas in practice. That said, I've begun taking active efforts to reemphasize better testing in my code.
-Agile | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
-Scrum | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
+Agile | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | I was trained in Agile development at RIT, specifically implemented using Scrum. I am now attempting to bring further agile methodology to my existing team at the University of Rochester, with the assistance of my project manager.
+Scrum | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | On one of my largest fully software development projects, the code for which can be found in this GitHub (TODO: ADD LINK), I was the Scrum manager. It's a nice system.
 Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
 </details>
 
