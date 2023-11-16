@@ -305,9 +305,9 @@ Trello | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-ArchivesSpace | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-Omeka Classic | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
-Omeka S | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
+ArchivesSpace | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | In addition to serving as the application admin for the University of Rochester's ArchivesSpace instance, I worked on the implementation project for the PUI at the insitution as we moved from an in house PUI to the provided PUI on 4.2.1, Finally, I have worked to develop a plugin, UR-CodeInject, with the frontend developer on my team, to add additional function to the system. This was done as part of a project to meet stakeholder goals.
+Omeka Classic | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | 
+Omeka S | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | 
 WebCRD | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | WebCRD is a platform for Web2Print implementation and commercial printshop management. A prior position of mine was to serve as vendor support for WebCRD. As such, I am proficient in it to the greatest degree that would ever be necessary for other roles. I served as a line of communication between development and our customers in identifying, diagnosing, and resolving issues of all sizes and natures.
 </details>
 </ul>
