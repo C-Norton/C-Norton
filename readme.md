@@ -251,10 +251,14 @@ Scrum | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_
 Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
 </details>
 
-<details><summary>Development "Soft Skills"</summary>
+<details><summary>Software Engineering Core Concepts</summary>
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
+Solid Principles | |
+GRASP | |
+Documentation writing | |
+Design Patterns | |
 </details>
 <details><summary>Service Delivery Software</summary>
 
