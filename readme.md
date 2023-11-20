@@ -369,7 +369,7 @@ PC Solutions became part time when I picked up Rochester Software Associates, an
 
 Company<img width=190 /> | Position<img width=120 /> | Tenure<img width=120> | Duties<img width=650 /> 
 ------ | ----- | ------ | ------
-Cornerstone Bread | IT Manager |  | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation..
+Cornerstone Bread | IT Manager |  | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation.
 Capstone Information Technologies |  |  | 
 PC Solutions IT Consulting |  |  | 
 Rochester Software Associates |  |  | 
