@@ -373,7 +373,7 @@ Cornerstone Bread | IT Manager |  | Served as the sole IT personnel for the busi
 Capstone Information Technologies |  |  | 
 PC Solutions IT Consulting |  |  | 
 Rochester Software Associates |  |  | 
-University of Rochester - River Campus Libraries  |  |  | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
+University of Rochester - River Campus Libraries  | Senior Programmer Analyst |  | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
 Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
 </details>
 
