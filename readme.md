@@ -328,8 +328,6 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 [ ] Lisp
 
-[ ] Perl
-
 [ ] Typescript
 
 
