@@ -253,12 +253,13 @@ Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_b
 
 <details><summary>Software Engineering Core Concepts</summary>
 
-Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
+Concept<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
 Solid Principles | |
 GRASP | |
 Documentation writing | |
 Design Patterns | |
+Testing | | 
 </details>
 <details><summary>Service Delivery Software</summary>
 
@@ -283,6 +284,7 @@ WireShark | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_b
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
+Grep | |
 </details>
 
 <details><summary>Enterprise Networking Ecosystems</summary>
@@ -379,5 +381,4 @@ Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors f
 go through lists, populate
 find a place for discussion of rest API experience.
 find place for specific Linux experience
-showcase IDE experience 
 Add an education and certification section
