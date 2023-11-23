@@ -339,8 +339,14 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 # Projects Completed
 
-<ul>
-</ul>
+Project Name | Completion year | Associated Position | Skills Utilized | Project Team Size (Myself included) | Description
+------ | ----- | ------ | ------ | ------ | ------ 
+Camera Install | 2015 | Cornerstone Bread Co. | Project Management, Budgeting, Wiring | 2 | Installed a new security system for employer, including the selection of hardware, selection of camera positioning, design of proposal to stakeholder, and physical install. Delivered final work at timeline, and under budget. Supervised external contractor assisting with work requiring certification.
+CRM+ERP Migration | 2016 | Cornerstone Bread Co. | AutoHotkey, Python, Macro Development, Excel, Professional Communications | 2 | Served under business owner to migrate existing data from CRM + ERP system to new product. Organized and automated data entry, cleanup, and generation using a variety of tools, to varied success. Managed an executive increase in scope late in project to satisfactory effect.
+WebCheckers | 2017 | Student - Rochester Institute of Technology | Java, Maven, Apache Spark, Ajax, Javascript, HTML5, Scrum, Project Management, Git | 4 | Worked with team to develop an application capable of running on a webserver, and supporting 2 players logging in and playing a game of checkers. Primarily responsible for implementing game logic using Java.
+ShoppingCart | 2018 | Student - Rochester Institute of Technology | Java, H2 Database, SQL, UI Development, Lanterna, Git | 4 | Worked with team as primary developer, contributing sizable majority of code to repository. Developed a simulation of an ecommerce site backend where users can log in, fill a shopping cart with items, and check out, including features such as automatic restocking, comprehensive analysis of stock trends, and multifaceted searching. Implemented multiple core design patterns. Served as primary archtitect for relational table design. [Code is available at this repository.](https://github.com/C-Norton/CSCI320)
+
+
 
 # Projects in progress
 
