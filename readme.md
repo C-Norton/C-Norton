@@ -325,9 +325,9 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 [ ] Erlang
 
-[ x ] Haskell
+[x] Haskell
 
-[ x ] Prolog
+[x] Prolog
 
 [ ] Lisp
 
