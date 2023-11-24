@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/12**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/24**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -62,7 +62,6 @@ C++ | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_d
 Java | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Of any language, Java is the one I am most experienced in, by far. The only thing that begins to rival it in that respect is C. My familiarity is with Java 8 and before primarily. It's a solid language, but the JRE has... issues, and working in it feels antiquated to me compared to other, newer languages that fill a similar niche. There's just too much redundant code to be written, and I feel like my life is nothing but getters and setters.
 JavaScript | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Not a fan of Javascript. I can hack it, but I avoid it at all costs. Typescript looks like a solution to my hatred of it, but I've not looked into it. I'm looking to expand both my proficiency and tolerance of Javascript with my "Foundry Accessibility Toolkit" project, featured further below on this page.
 Python | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I primarily use python for scripting, OS automation, and data processing. More recently, I've built some tools based around Rest APIs in Python, along with a few GUIs using tkinter.
-Prolog | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Very limited experience in Prolog. Specifically SWI-Prolog. I have a lot to learn from it as a language, and want to get back to it.
 PHP | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I picked up PHP as part of my work with the University of Rochester. I was replacing a developer who worked primarily in PHP, we were, at the same time, replacing many of the systems he worked on. As a result, I had to familiarize myself with existing codebases, but the amount of new code I wrote was limited to band-aids and tweaks while we worked to sunset the associated systems. Therefore, I've read quite a bit of PHP, but written only a little.
 Ruby | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | I've worked with Ruby in particular for development of plugins for ArchivesSpace, a tool based on the Rack web framework. While my total time in Ruby is limited, I've had to dive deep into its internals to diagnose a few highly specific issues related to that project.
 Rust | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Rust looks like a GREAT system implementation language, and generally solid for close to metal programming. All the control of C, all the comfort of a modern language. I want to learn rust on my next project that needs that level of control, I've just not run into a use case for it at this point, as I don't really do that kind of work these days. I would love the opportunity though.
@@ -327,6 +326,8 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 [ ] Erlang
 
 [ ] Haskell
+
+[ ] Prolog
 
 [ ] Lisp
 
