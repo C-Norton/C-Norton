@@ -323,15 +323,15 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 
 #### Languages
 
-[ ] Erlang
+- [ ] Erlang
 
-[x] Haskell
+- [x] Haskell
 
-[x] Prolog
+- [x] Prolog
 
-[ ] Lisp
+- [ ] Lisp
 
-[ ] Typescript
+- [ ] Typescript
 
 
 #### Frameworks and Libraries
