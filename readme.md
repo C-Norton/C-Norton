@@ -319,15 +319,15 @@ WebCRD | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue
 
 # Skills I am looking to learn
 <ul>
-I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated
+I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated. Ticked items have slight exposure
 
 #### Languages
 
 [ ] Erlang
 
-[ ] Haskell
+[ x ] Haskell
 
-[ ] Prolog
+[ x ] Prolog
 
 [ ] Lisp
 
