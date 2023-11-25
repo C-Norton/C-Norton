@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/24**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/25**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -64,11 +64,9 @@ JavaScript | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small
 Python | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I primarily use python for scripting, OS automation, and data processing. More recently, I've built some tools based around Rest APIs in Python, along with a few GUIs using tkinter.
 PHP | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I picked up PHP as part of my work with the University of Rochester. I was replacing a developer who worked primarily in PHP, we were, at the same time, replacing many of the systems he worked on. As a result, I had to familiarize myself with existing codebases, but the amount of new code I wrote was limited to band-aids and tweaks while we worked to sunset the associated systems. Therefore, I've read quite a bit of PHP, but written only a little.
 Ruby | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | I've worked with Ruby in particular for development of plugins for ArchivesSpace, a tool based on the Rack web framework. While my total time in Ruby is limited, I've had to dive deep into its internals to diagnose a few highly specific issues related to that project.
-Rust | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Rust looks like a GREAT system implementation language, and generally solid for close to metal programming. All the control of C, all the comfort of a modern language. I want to learn rust on my next project that needs that level of control, I've just not run into a use case for it at this point, as I don't really do that kind of work these days. I would love the opportunity though.
-Scala | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | Scala. I like Scala. While I've devoted myself over the next few projects to mastering C#, Scala is 100% my next language of that ilk to learn. Since mid level OO languages are my sweet spot, I anticipate exploring more with it soon.
 Smalltalk | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I worked with smalltalk a little bit in university. It taught me a lot about solid OO programming. While its age shows, it's purity appealed to me, and I'd like to work in it more
 SQL | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | H2 dialect, but it's SQL, to say its easy to switch between is an understatement.
-VBA | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | This goes without saying, but VBA is an abomination. There are, however, some things that probobly should not be done in excel, that if you want to do in a spreadsheet, VBA is your only option. As such, I've worked a little in VBA. 
+VBA | :large_blue_circle: :large_blue_circle: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: | This goes without saying, but VBA is an abomination. There are, however, some things that probobly should not be done in excel, that if you want to do in a spreadsheet, VBA was your only option until 2023. As such, I've worked a little in VBA, including a few small glue scripts to move things between systems. 
 </details>
 
 <details><Summary>Shells, Scripting languages, and OS automation systems</summary>
@@ -290,19 +288,20 @@ Grep | |
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-SonicWall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
-FortiNet | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-Cisco | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
-WatchGuard | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
+Cisco | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | When I was taught routing and switching in university, I was taught on cisco hardware. I haven't seen too much Cisco out in the wild, but when I have, my knowledge of it has often been a boon due to how... different Cisco equipment tends to operate. 
+FortiNet | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | When I co-founded PC Solutions, I picked FortiNet as our preferred networking vendor, despite no experience at the time in their product stack. Their pricing, market positioning, and performance were simply too good to pass up for the client sizes we were targeting. I therefore recieved training directly from the vendor to become a qualified reseller, and bought a unit to use as a lab unit to explore. After this, I deployed about a dozen firewalls to production, each hand configured, as well as several switches and APs. 
+Meraki | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I like Meraki products; they're simple to use. I hate the preadatory pricing model they foist upon their users, but I could see the appeal of placing one in a cybersecurity hostile organization to ensure the support contract stays paid.
+SonicWall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | My first 2 jobs had me working with Sonicwall firewalls to varying degrees for configuring, migrating, monitoring, and, reviewing logs. I never set one up from scratch, so I can't claim full proficiency here, but I did just about everything shy of this.
+WatchGuard | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I've worked with a few Watchguard firewalls and switches. I can't say they appeal to me on any front; I would avoid working with them again if I could make that choice. 
 </details>
 
 <details><summary>Business Software</summary>
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-Microsoft 365 Administration | | 
-Microsoft Office Suite | | 
-Asana | |
+Asana | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | The team I currently work on uses Asana rather than Trello as a project management tool. I like it quite a lot. It's heavier weight than Trello, but I like the added featureset.
+Microsoft 365 Administration | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Several of my positions have had a component of, or been primarily composed of, O365 Administration tasks. Additionally, my wife spent eighteen months working as a cloud support engineer for a major reseller of the product, and so we built on each others' knowledge through sharing work stories.
+Microsoft Office Suite | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | There's too many little pieces of software in the office suite for me to claim proficiency in every corner of it, however, the major titles _excluding Access_, are tools I've worked with since the 2003 edition of the products. If the software can do it, I can do it. Excel still has depth for me to learn, but I know enough to get anything done in it that I need to. 
 Trello | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Trello is one of my core organizational tools. I use it constantly, and would not survive without it or a similar tool. As such, I'm intimately familiar. Of course, there's also not a lot to Trello...
 </details>
 
@@ -324,13 +323,11 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 #### Languages
 
 - [ ] Erlang
-
 - [x] Haskell
-
-- [x] Prolog
-
 - [ ] Lisp
-
+- [x] Prolog
+- [x] Rust
+- [ ] Scala
 - [ ] Typescript
 
 
@@ -389,6 +386,4 @@ Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors f
 
 ##todo
 go through lists, populate
-find a place for discussion of rest API experience.
-find place for specific Linux experience
 Add an education and certification section
