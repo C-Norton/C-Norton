@@ -264,8 +264,8 @@ Testing | |
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-Connectwise Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-Kaseya Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
+Connectwise Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | Participated in data entry for a connectwise migration for Capstone information Technologies, plus used it during my tenure there. I explored the guts of Manage pretty thoroughly, love Control like no other remote control application, and worked a little bit with automate. Did not use sell. I could likely get certified quickly if needed.
+Kaseya Platforms | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | Fully set up BMS+VSA+Live Connect for PC Solutions. Used ITGlue with Capstone Information Technologies. I prefer VSA to Automate, and Manage to BMS. Control kicks LiveConnect's butt.
 Atlassian Suite | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
 Microsoft Dynamics 365 | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: |
 
@@ -274,8 +274,8 @@ Microsoft Dynamics 365 | :large_blue_circle: :large_blue_circle: :small_blue_dia
 
 Platform<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-Domotz | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: |
-WireShark | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: |
+Domotz | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I used Domotz as a key tool for service delivery with PC Solutions. It's extremely powerful, and well priced. I like it a lot.
+WireShark | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | I took an entire course on packet analysis in Wireshark at RIT. I have used this knowledge several times since to troubleshoot difficult networking problems. It's not a tool that gets frequent use, but it's irreplaceable where it's needed.
 
 </details>
 
