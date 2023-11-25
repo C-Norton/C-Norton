@@ -247,7 +247,7 @@ Methodology<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=65
 Test Driven Development | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | I was trained in Test Driven Development when I was taught to program at RIT, but have struggled to implement the ideas in practice. That said, I've begun taking active efforts to reemphasize better testing in my code.
 Agile | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | I was trained in Agile development at RIT, specifically implemented using Scrum. I am now attempting to bring further agile methodology to my existing team at the University of Rochester, with the assistance of my project manager.
 Scrum | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: | On one of my largest fully software development projects, the code for which can be found in this GitHub (TODO: ADD LINK), I was the Scrum manager. It's a nice system.
-Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: |
+Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: | Waterfall has served as the default project management method for many of my projects. As I am not particularly a fan of it as it applies to software and technology, I have made an active effort to emphasize agile principles on the teams I work on, with great success.
 </details>
 
 <details><summary>Software Engineering Core Concepts</summary>
