@@ -318,21 +318,26 @@ WebCRD | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue
 
 # Skills I am looking to learn
 <ul>
-I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated. Ticked items have slight exposure
+I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated. I am actively learning and engaging with content in the subjects ticked as of time of writing.
 
 #### Languages
 
 - [ ] Erlang
-- [x] Haskell
+- [ ] Haskell
 - [ ] Lisp
-- [x] Prolog
-- [x] Rust
+- [ ] Prolog
+- [ ] Rust
 - [ ] Scala
 - [ ] Typescript
 
 
 #### Frameworks and Libraries
+
+- [x] TKinter 
+
 #### Platforms
+- [ ] Amazon Web Services
+- [x] Docker
 </ul>
 
 # Projects Completed
