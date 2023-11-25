@@ -252,11 +252,11 @@ Waterfall | :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_b
 
 Concept<img width=150 /> | Proficiency<img width=190 /> | Notes<img width=650 />
 ------ | ----- | ------
-Solid Principles | |
-GRASP | |
-Documentation writing | |
-Design Patterns | |
-Testing | | 
+SOLID Principles | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :small_blue_diamond:|
+GRASP |  |
+Documentation writing | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: | I have worked in pretty documentation-light environments, and served to push towards writing greater docs. They always save time, even for the author, within a matter of weeks or months. They are an essential component of any functional organization, but are often ignored.
+Design Patterns | :large_blue_circle: :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
+Testing | :large_blue_circle: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: | 
 </details>
 <details><summary>Service Delivery Software</summary>
 
