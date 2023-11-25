@@ -316,9 +316,9 @@ WebCRD | :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue
 </details>
 </ul>
 
-# Skills I am looking to learn
-<ul>
-I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have explored them further since this document was last updated. I am actively learning and engaging with content in the subjects ticked as of time of writing.
+# Skills I am looking to learn or am actively studying
+
+I may have exposed myself to these skills very, VERY briefly, but not enough to put above. I also may have them listed above but am doing a deeper dive into them to improve my own knowledge. I am actively learning and engaging with content in the subjects ticked as of time of writing.
 
 #### Languages
 
@@ -338,7 +338,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 #### Platforms
 - [ ] Amazon Web Services
 - [x] Docker
-</ul>
+
 
 # Projects Completed
 
