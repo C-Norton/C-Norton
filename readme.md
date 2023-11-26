@@ -384,8 +384,8 @@ Company<img width=190 /> | Position<img width=120 /> | Tenure<img width=120> | D
 Cornerstone Bread | IT Manager | 2013-2020 | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation.
 Capstone Information Technologies | Co-op Helpdesk Associate | 2019-2020 | 
 PC Solutions IT Consulting | Co-Founder | 2020-2023 | 
-Rochester Software Associates |  |  | 
-University of Rochester - River Campus Libraries  | Senior Programmer Analyst |  | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
+Rochester Software Associates | Technical Analyst | 2021-2022 | 
+University of Rochester - River Campus Libraries  | Senior Programmer Analyst | 2022-Present | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
 Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
 </details>
 
