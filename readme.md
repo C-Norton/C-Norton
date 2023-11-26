@@ -1,7 +1,7 @@
 # Introduction
 Hi, My name is Channing Norton; though you may see older references to me and my work by the name Channing Helmling-Cornell, or variations thereof, as not all services liked how long my old last name was, or the hyphen.
 
-This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/25**
+This GitHub account serves as my portfolio as a software developer and IT professional. This document was last updated on **2023/11/26**
 
 I pride myself on being a technology generalist that can learn how to produce quality work in a variety of areas quickly, with a solid base of fundamental skills.
 
@@ -381,9 +381,9 @@ PC Solutions became part time when I picked up Rochester Software Associates, an
 
 Company<img width=190 /> | Position<img width=120 /> | Tenure<img width=120> | Duties<img width=650 /> 
 ------ | ----- | ------ | ------
-Cornerstone Bread | IT Manager |  | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation.
-Capstone Information Technologies |  |  | 
-PC Solutions IT Consulting |  |  | 
+Cornerstone Bread | IT Manager | 2013-2020 | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation.
+Capstone Information Technologies | Co-op Helpdesk Associate | 2019-2020 | 
+PC Solutions IT Consulting | Co-Founder | 2020-2023 | 
 Rochester Software Associates |  |  | 
 University of Rochester - River Campus Libraries  | Senior Programmer Analyst |  | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
 Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
