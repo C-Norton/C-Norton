@@ -382,7 +382,7 @@ PC Solutions became part time when I picked up Rochester Software Associates, an
 Company<img width=190 /> | Position<img width=120 /> | Tenure<img width=120> | Duties<img width=650 /> 
 ------ | ----- | ------ | ------
 Cornerstone Bread | IT Manager | 2013-2020 | Served as the sole IT personnel for the business as it tripled in headcount over my tenure. Managed multiple IT and CyberSecurity implementation projects. served to train individuals on software, maintained software and hardware, managed hardware and software acquisition and deprecation.
-Capstone Information Technologies | Co-op Helpdesk Associate | 2019-2020 | 
+Capstone Information Technologies | Co-op Helpdesk Associate | 2019-2020 | Assisted clients of headcounts in the 5-100 range with technology needs, serving as tier 1, and later tier 2 support for users with a 450:1 user to technician ratio utilizing connectwise ecosystem of products. Served primarily to support office 365, active directory, and windows 10 environments.
 PC Solutions IT Consulting | Co-Founder | 2020-2023 | 
 Rochester Software Associates | Technical Analyst | 2021-2022 | 
 University of Rochester - River Campus Libraries  | Senior Programmer Analyst | 2022-Present | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
