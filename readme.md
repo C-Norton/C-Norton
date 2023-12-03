@@ -364,7 +364,7 @@ Omeka S Exploration Project | 2023 | University of Rochester, River Campus Libra
 # Projects on hold and abandoned
 
 <ul>  <li><b>Foundry Accessibility Tooklit</b>  - Foundry accessibility toolkit is a project of mine to take Foundry Virtual Tabletop, which I use in my hobby as a roleplayer, and adapt it for better use by low vision users, as I noticed such options were extremely lacking, and one of my players is herself sight impaired.</li>
-  <li><b>GMTK Gamejam 2021, 2023</b> - In 2021, I was the sole programmer for a game. While it was initially planned that 2 other programmers would join our group of 5, both dropped out of the jam midway through due to personal reasons, without code contributions. As such, while we were unable to submit, due to a number of bugs, I still learned a lot about Unity by attempting.</li></ul>
+  <li><b>GMTK Gamejam 2021, 2023</b> - In 2021, I was the sole programmer for a game. While it was initially planned that 2 other programmers would join our group of 5, both dropped out of the jam midway through due to personal reasons, without code contributions. As such, while we were unable to submit, due to a number of bugs, I still learned a lot about Unity by attempting. In 2023, I had a similar result of being a sole programmer and DNF'ing, though with a much more complete project. This time, scope creep and UI programming being timeconsuming for me caused the project to fail.</li></ul>
 
 # Open Source
 
