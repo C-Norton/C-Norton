@@ -8,7 +8,7 @@ I pride myself on being a technology generalist that can learn how to produce qu
 This document will outline the projects I have done, the technologies I have worked with, what I'm looking to learn, and what I'm working on right now. Not all of my repositories are public, and not all the code I've produced is mine to share or showcase. Furthermore, smaller projects like one off scripts may not ever get entered into version control, though anything spanning more than a day or two's work for me does end up here now that github finally has private repos for free. Final note is, to avoid making academic dishonesty easier, the code for my coursework at RIT or other institutions is ONLY in private repos, if its entered here at all. Throughout much of university I actually used Mercurial rather than Git, purely because, for one person projects, git is a bit overkill.
 
 
-### NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
+##### NOTE: THIS DOCUMENT IS STILL A WORK IN PROGRESS. WHILE IT IS A LIVING DOCUMNENT, AND WILL NEVER BE "DONE," IT IS VERY MUCH NOT FILLED OUT.
 
 # Key for this Document
 <ul></ul>
