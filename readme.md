@@ -358,7 +358,7 @@ Omeka S Exploration Project | 2023 | University of Rochester, River Campus Libra
 
 <ul>
 
-  <li><b>ArchivesSpace Bulk Edit UI</b> - As a side project for work, I've been creating a user interface for performing resource-level/ collection level updates to records in ArchivesSpace conditionally, functionality that is not provided out of the box. This is made possible through the ArchivesSpace Rest API. To make this accessible to our Librarians, I am building it with a GUI using TKinter. <a href="https://github.com/C-Norton/BulkEditUI"> You can view the WIP code for the GUI portion here.</a></li>
+  <li><b>ArchivesSpace Bulk Edit UI</b> - As a side project for work, I've been creating a user interface for performing resource-level/ collection level updates to records in ArchivesSpace conditionally, functionality that is not provided out of the box. This is made possible through the ArchivesSpace Rest API. To make this accessible to our Librarians, I am building it with a GUI using TKinter. <a href="https://github.com/C-Norton/BulkEditUI"> You can view the WIP code for project in this repository.</a></li>
 </ul>
 
 # Projects on hold and abandoned
