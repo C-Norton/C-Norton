@@ -323,6 +323,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 #### Languages
 
 - [ ] Erlang
+- [ ] Go
 - [ ] Haskell
 - [ ] Lisp
 - [ ] Prolog
