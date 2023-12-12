@@ -327,7 +327,7 @@ I may have exposed myself to these skills very, VERY briefly, but not enough to 
 - [ ] Lisp
 - [ ] Prolog
 - [ ] Rust
-- [ ] Scala
+- [x] Scala
 - [ ] Typescript
 
 
