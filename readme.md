@@ -386,7 +386,7 @@ Capstone Information Technologies | Co-op Helpdesk Associate | 2019-2020 | Assis
 PC Solutions IT Consulting | Co-Founder | 2020-2023 | Served as technical lead of business. Developed end to end support and product stack, supported clients.
 Rochester Software Associates | Technical Analyst | 2021-2022 | Supported client environments consisting of Red Hat Enterprise Linux and CentOS running our custom software (WebCRD). Maintained both operating system and software for these clients, who were cybersecurity concious firms, often in the fortune 1000 size range, with a wide variety of complex IT ecosystems to be mindful of.
 University of Rochester - River Campus Libraries  | Senior Programmer Analyst | 2022-Present | Worked using a variety of programming languages to maintain legacy systems and construct new systems. Served as both a programmer and an application administrator
-Technology Tutor (Independent, worked primarily with Wyzant and Varsity Tutors for billing and student matching) |  |  | 
+Independent Technology Tutor | Tutor | 2016-Present | Worked to tutor students, develop curricula, and learn student technology stacks on tight timelines to provide aid to students at a variety of levels, from high school to masters level and career programmers. Primarily worked in Python, Java, and C#. Developed full Python 1 course materials in the process.
 </details>
 
 ##todo
