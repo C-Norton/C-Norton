@@ -54,7 +54,7 @@ including Fortune 100 healthcare clients.
 
 ## Community
 
-**Board of Directors, Rochester Makerspace** (2025 to present)
+**Board of Directors, [Rochester MakerSpace](https://rocmakers.org)** (2025 to present)
 Financial and liability decisions, regulatory response, and improving accessibility and training programs.
 
 ## Education
