@@ -3,6 +3,7 @@
 Full stack software engineer with a DevOps and sysadmin foundation. I build and maintain web applications and automation (Python, Java, Ruby, PHP), run the Linux infrastructure underneath them, and work heavily with open source platforms. 
 
 *You may see older work under the name Channing Helmling-Cornell.*
+
 *This document was last updated 10/02/2026*
 
 ## Open Source
