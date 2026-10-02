@@ -27,6 +27,7 @@ departments.
 APIs.
 - Ensured stability and maintenance of in-house developed applications (Java and PHP) while managing the
 transition to next-generation platforms.
+
 **Co-Founder and Technical Lead, PC Solutions** (2020 to 2023)
 - Architected and optimized a solution stack to efficiently deliver IT Helpdesk, Microsoft 365 administration, and
 network infrastructure services to small and medium business clients.
@@ -34,11 +35,13 @@ network infrastructure services to small and medium business clients.
 through 2023.
 - Developed and refined support processes and procedures, along with client policies addressing critical
 technical needs such as Cybersecurity, Backup, and HIPAA compliance.
+
 **Technical Analyst, Rochester Software Associates** (2021 to 2022)
 - Handled maintenance operations for Linux and Windows Server–based enterprise software projects deployed
 across approximately 600 on-premises and AWS servers.
 - Developed cybersecurity-first procedures for maintaining software systems tailored to major customers,
 including Fortune 100 healthcare clients.
+
 **Director of IT, Cornerstone Bread Company** (2013 to 2020)
 - Sole IT lead through a six-fold headcount increase. Led ERP and CRM rollouts.
 
