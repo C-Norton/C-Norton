@@ -1,6 +1,6 @@
 # Hi, I'm Channing Norton
 
-Full stack software engineer with a DevOps and sysadmin foundation. I build and maintain web applications and automation (Python, Java, Ruby, PHP), run the Linux infrastructure underneath them, and work heavily with open source platforms. 
+Full stack software engineer with a DevOps and Systems Administration foundation I have experience with the LAMP (Linux Apache MySQL PHP) stack, and its variations. I build and maintain web applications and automation (Python, Java, Ruby, PHP), run the Linux infrastructure underneath them, and work heavily with open source platforms. 
 
 *You may see older work under the name Channing Helmling-Cornell.*
 
